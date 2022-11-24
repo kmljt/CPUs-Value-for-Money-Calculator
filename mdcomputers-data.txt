@@ -1,0 +1,35 @@
+ INTEL® PENTIUM® G4560 Desktop Processor 2 Core Up To 3.50 GHz LGA1151 200 Series 54W 	4899
+8th Gen Intel® Core™ i3-8100 Desktop Processor 4 Cores up to 3.6GHz LGA1151 (Intel® 300 Series chipset) 65W BX80684i38100 	10599
+8th Gen Intel® Core™ i5-8400 Desktop Processor 6 Cores up to 4.0GHz Turbo LGA1151 (Intel® 300 Series chipset) 65W BX80684i58400 	15999
+9th Gen Intel® Core™ i3-9100F Desktop Processor 4 Cores up to 4.2GHz Without Processor Graphics LGA 1151 (Intel® 300 Series Chipset) 65W BX80684i39100F 	6199
+9th Gen Intel® Core™ i5-9400 Desktop Processor 6 Cores up to 4.1GHz LGA 1151 (Intel® 300 Series Chipset) 65W 	15899
+9th Gen Intel® Core™ i5-9400F Desktop Processor 6 Cores up to 4.1GHz Without Processor Graphics LGA 1151 (Intel® 300 Series Chipset) 65W BX80684I59400F 	11199
+9th Gen Intel® Core™ i5-9600K Desktop Processor 6 Cores up to 4.6GHz Unlocked LGA1151 (Intel® 300 Series chipset) 95W BX80684i59600K 	17499
+9th Gen Intel® Core™ i7-9700K Desktop Processor 8 Cores up to 4.9GHz Unlocked LGA1151 (Intel® 300 Series chipset) 95W BX80684I79700K 	30499
+9th Gen Intel® Core™ i9-9900K Desktop Processor 8 Cores up to 5.0GHz Unlocked LGA1151 (Intel® 300 Series chipset) 95W BX80684I99900K 	50999
+9th Gen Intel® Core™ i9-9900KF Desktop Processor 8 Cores up to 5.0GHz Unlocked LGA1151 (Intel® 300 Series chipset) 95W 	41499
+AMD ATHLON 200GE APU Series Desktop Processor - (Radeon Vega 3 Graphics, 2 Core, Up To 3.2 GHz, AM4 Socket, 5MB Cache) 	3699
+AMD RYZEN 3 1200 Desktop Processor With Wraith Stealth Cooling Solution - (4 Core, Up To 3.4 GHz, AM4 Socket, 10MB Cache) 	4890
+Amd Ryzen 3 3200G 2nd Generation Desktop Processor With Wraith Stealth Cooling Solution (4 Core, Up To 4 GHz, AM4 Socket, 6MB Cache) 	8449
+AMD RYZEN 5 1600 Desktop Processor With Wraith Spire Cooling Solution - (6 Core, Up To 3.6 GHz, AM4 Socket, 19MB Cache) 	8799
+AMD RYZEN 5 2400G 1st Generation Desktop Processor - (Radeon Vega 11 Graphics, 4 Core, Up To 3.9 GHz, AM4 Socket, 6MB Cache) 	9839
+AMD RYZEN 5 2600 2nd Generation Desktop Processor With Wraith Stealth Cooling Solution - (6 Core, Up To 3.9 GHz, AM4 Socket, 19MB Cache) 	12099
+AMD RYZEN 5 2600X 2nd Generation Desktop Processor With Wraith Spire Cooling Solution - (6 Core, Up To 4.2 GHz, AM4 Socket, 19MB Cache) 	14299
+Amd Ryzen 5 3400G 2nd Generation Desktop Processor With Wraith Spire Cooling Solution (4 Core, Up To 4.2 GHz, AM4 Socket, 6MB Cache) 	12799
+Amd Ryzen 5 3500 3rd Generation Desktop Processor With Wraith Stealth Cooling Solution (6 Core, Up To 4.1 GHz, AM4 Socket, 16MB Cache) 	10999
+Amd Ryzen 5 3600 3rd Generation Desktop Processor With Wraith Stealth Cooling Solution (6 Core, Up To 4.2 GHz, AM4 Socket, 35MB Cache) 	16899
+Amd Ryzen 5 3600X 3rd Generation Desktop Processor With Wraith Spire Cooling Solution (6 Core, Up To 4.4 GHz, AM4 Socket, 35MB Cache) 	20699
+AMD RYZEN 7 1700 Desktop Processor With Wraith Spire Cooling Solution - (8 Core, Up To 3.7 GHz, AM4 Socket, 20MB Cache) 	14599
+AMD RYZEN 7 2700 2nd Generation Desktop Processor With Wraith Spire Cooling Solution RGB LED - (8 Core, Up To 4.1 GHz, AM4 Socket, 20MB Cache) 	17899
+AMD RYZEN 7 2700X 2nd Generation Desktop Processor - With Wraith Prism Cooling Solution RGB LED (8 Core, Up To 4.3 GHz, AM4 Socket, 20MB Cache) 	20299
+Amd Ryzen 7 3700X 3rd Generation Desktop Processor With Wraith Prism Cooling Solution (8 Core, Up To 4.4 GHz, AM4 Socket, 36MB Cache) 	28799
+Amd Ryzen 7 3800X 3rd Generation Desktop Processor With Wraith Prism Cooling Solution (8 Core, Up To 4.5 GHz, AM4 Socket, 36MB Cache) 	30499
+Amd Ryzen 9 3900X 3rd Generation Desktop Processor With Wraith Prism Cooling Solution (12 Core, Up To 4.6 GHz, AM4 Socket, 70MB Cache) 	45990
+Amd Ryzen 9 3950X 3rd Generation Desktop Processor (16 Core, Up To 4.7 GHz, AM4 Socket, 73MB Cache) 	67999
+AMD RYZEN THREADRIPPER 2950X 2nd Generation Desktop Processor - (16 Core, Up To 4.4 GHz, TR4 Socket, 40MB Cache) 	69999
+Amd Ryzen Threadripper 3960X 3nd Generation Desktop Processor - (24 Core, Up To 4.5 GHz, TRX4 Socket, 142MB Cache) 	121999
+Amd Ryzen Threadripper 3970X 3nd Generation Desktop Processor - (32 Core, Up To 4.5 GHz, TRX4 Socket, 147MB Cache) 	172999
+Intel® Core™ i3-6100 Desktop Processor 2 Core 3.7GHz LGA1151 200 Series 51W BX80662I36100 	8899
+Intel® Core™ i5+ 8400 Desktop Processor 6 Core up to 4.0GHz LGA1151 with 16G Intel® Optane™ Memory Module BOC80684i58400 	18999
+INTEL® PENTIUM® G4400 Desktop Processor 2 Core Up To 3.30 GHz LGA1151 100 Series 54W 	4399
+Intel® Pentium® Gold G5400 Desktop Processor 2 Core Up To 3.70 GHz LGA1151 300 Series 58W BX80684G5400 	4985

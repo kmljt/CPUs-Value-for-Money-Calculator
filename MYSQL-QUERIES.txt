@@ -1,0 +1,20 @@
+>>> use userbench;
+
+Best budget gaming value
+>>> select sno, brand, model, scr, dcr, qcr, ocr, mcr, minimum, effperf, value, eqperf, eqval from cpus where effperf>70 and value>80 order by value desc;
+>>> select sno, brand, model, scr, dcr, qcr, ocr, mcr, minimum, effperf, value, eqperf, eqval from cpus where effperf>80 and value>60 order by value desc;
+
+Best midrange gaming value
+>>> select sno, brand, model, scr, dcr, qcr, ocr, mcr, minimum, effperf, value, eqperf, eqval from cpus where effperf>90 and value>20 order by value desc;
+
+Best gaming
+>>> select sno, brand, model, scr, dcr, qcr, ocr, mcr, minimum, effperf, value, eqperf, eqval from cpus where effperf>95;
+
+Best productivity value
+>>> select sno, brand, model, scr, dcr, qcr, ocr, mcr, minimum, (1000*mcr/sqrt(minimum)) from cpus where (1000*mcr/sqrt(minimum))>150 and minimum<30000 order by (1000*mcr/sqrt(minimum)) desc;
+
+Best flagship productivity
+>>> select sno, brand, model, scr, dcr, qcr, ocr, mcr, minimum, (1000*mcr/sqrt(minimum)) from cpus where mcr>40 and (1000*mcr/sqrt(minimum))>100 order by (1000*mcr/sqrt(minimum)) desc;
+
+Best budget overall value
+>>> select sno, brand, model, scr, dcr, qcr, ocr, mcr, minimum, effperf, value, eqperf, eqval from cpus where eqperf>60 and eqval>70 order by eqval desc;

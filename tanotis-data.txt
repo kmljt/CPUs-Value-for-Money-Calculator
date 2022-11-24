@@ -1,0 +1,114 @@
+Intel Celeron G4920 3.2 GHz Dual-Core LGA 1151 Processor (Retail)	8435
+Intel Core i5-7400T 2.4 GHz Quad-Core Processor	26385
+Intel Core i7-4810MQ 2.8 GHz Processor	55195
+Intel Core i5-7600 3.5 GHz Quad-Core LGA 1151 Processor	30220
+Intel Box Core+ i7-8700 3.2GHz 6C 12T 12MB Processor	53210
+Intel Core i3-6100 3.7 GHz Dual-Core LGA 1151 Processor (Retail)	15130
+Intel Core i5-6500TE Quad-Core 2.30 GHz 4-Core H4 LGA-1151 Processor (OEM Pack)	25475
+Intel Core i5-9600K 3.7 GHz Six-Core LGA 1151 Processor	24215
+Intel Core i3-9100 Processor (OEM)	17935
+Intel Celeron G3930 2.9 GHz Dual-Core LGA 1151 Processor	6280
+Intel Core i5-8500 3.0 GHz Six-Core LGA 1151 Processor (Retail)	30575
+Intel Core i3-7320 4.1 GHz Dual-Core LGA 1151 Processor	22215
+Intel Core i7-6700 3.4 GHz Quad-Core Processor	41550
+Intel Core i7-9700K 3.6 GHz Eight-Core LGA 1151 Processor	50175
+Intel Core i5-6500 3.2 GHz Quad-Core Processor	28325
+Intel Core i5-7600T 2.8 GHz Quad-Core Processor	30180
+Intel Core i7-6950X 3.0 GHz Ten-Core LGA 2011-v3 Extreme Edition Processor	215625
+Intel Core i3-8350K 4.0 GHz Quad-Core LGA 1151 Processor	24335
+Intel Core i7-6950X 3.0 GHz Ten-Core LGA 2011-v3 Extreme Edition Processor (OEM)	219005
+Intel Core i3-9350KF Processor	22190
+Intel Core i5-8600K 3.6 GHz 6-Core LGA 1151 Processor	29620
+Intel Core i3-7100T 3.4 GHz Dual-Core LGA 1151 Processor	17450
+Intel Core i5-6600 3.3 GHz Quad-Core Processor	28995
+Intel Core i5-8600 3.1 GHz Six-Core LGA 1151 Processor (Retail)	32375
+Intel Core i7-7700K 4.2 GHz Quad-Core LGA 1151 Processor	45775
+Intel Core i9-7980XE X-Series Extreme Edition 2.6 GHz 18-Core LGA 2066 Processor (OEM)	251865
+Intel Core i7-6700 3.4 GHz Quad-Core Processor (OEM)	42290
+Intel Core i7-7700K 4.2 GHz Quad-Core LGA 1151 Processor (OEM)	48395
+Intel Core i9-9900 3.1 GHz Eight-Core LGA 1151 Processor (Boxed)	57520
+Intel Core i9-7980XE X-Series Extreme Edition 2.6 GHz 18-Core LGA 2066 Processor (Retail)	218510
+Intel Core i9-9900K 3.6 GHz Eight-Core LGA 1151 Processor	62025
+Intel Pentium G5600 3.9 GHz Dual-Core LGA 1151 Processor (Retail)	12900
+Intel Pentium G5400 3.7 GHz Dual-Core LGA 1151 Processor (Retail)	7935
+Intel Xeon E5-1650 v4 3.6 GHz Six-Core LGA 2011 Processor	75790
+Intel Xeon E5-2650 v4 2.2 GHz 12-Core LGA 2011-v3 Processor	152565
+Intel Xeon E5-2697 v4 2.3 GHz Eighteen-Core LGA 2011 Processor	340460
+Intel Xeon E5-2630 v4 2.2 GHz Ten-Core LGA 2011 Processor	82635
+Intel Xeon E5-2620 v4 2.1 GHz Eight-Core LGA 2011 Processor	50800
+Intel Xeon E5-2683 v4 2.1 GHz Sixteen-Core LGA 2011 Processor	234830
+Intel Xeon E5-2640v2 2 GHz Processor	24025
+Intel Xeon E5-2687W v4 3.0 GHz Twelve-Core LGA 2011 Processor	268830
+Intel Xeon E5-2403 1.80 GHz Processor	24695
+Intel Xeon E5-2660 v4 2.0 GHz Fourteen-Core LGA 2011 Processor	188330
+Intel Xeon E5-2695 v3 2.3 GHz Processor	301780
+Intel Xeon E5-4650L 2.60 GHz Processor	474995
+Intel Xeon E5-2470 v2 2.4 GHz Processor	189740
+Intel Xeon E5-2680 v3 2.5 GHz Processor	63400
+Intel Xeon E5-4607 2.20 GHz Processor	128445
+Intel Xeon Phi 7230 1.3 GHz Processor	481220
+Intel Xeon E5-2603 v4 1.7 GHz Six-Core LGA 2011 Processor	29590
+Intel Xeon E5-2670v2 2.50 GHz Processor	191655
+Intel Xeon E5-4603 2 GHz Processor	5270
+Intel Xeon W-2135 3.7 GHz Six-Core FCLGA 2066 Processor	106960
+Intel Xeon E5-2640 v4 2.4 GHz Ten-Core LGA 2011 Processor	117555
+Intel Xeon E5-2687 v4 3.0 GHz Twelve-Core LGA 2011-3 Processor	302700
+Intel Xeon E5-4640 2.40 GHz Processor	332370
+Intel Xeon E3-1270 v5 3.6 GHz Quad-Core LGA 1151 Processor	45555
+Intel Xeon E5-2643 v4 3.4 GHz Six-Core LGA 2011-3 Processor	225640
+Intel Xeon E5-2690 v4 2.6 GHz Fourteen-Core LGA 2011 Processor	267985
+Intel Xeon E5-2650 v3 2.3 GHz Processor	39060
+Intel Xeon E5-2695 v4 2.1 GHz Eighteen-Core LGA 2011 Processor	304475
+Intel Xeon Gold 6154 Octadeca-Core (18 Core) 3 GHz Processor - Socket 3647 - OEM Pack	502960
+Intel Xeon E5-2680 v4 2.4 GHz Fourteen-Core LGA 2011 Processor	223340
+Intel Xeon E5-4610 2.40 GHz Processor	168635
+Intel Xeon W-2145 3.7 GHz Eight-Core FCLGA 2066 Processor	145350
+Intel Xeon E5-4620 2.20 GHz Processor	195255
+Intel Xeon W-2175 2.5 GHz Fourteen-Core FCLGA 2066 Processor	277770
+Intel Xeon E5-4650 2.70 GHz Processor	513705
+Intel Xeon W-2125 Quad-Core (4 Core) 4 GHz Processor - Socket R4 LGA-2066 - Oem Pack	59550
+Intel Xeon W-2195 2.5 GHz Eighteen-Core FCLGA 2066 Processor	361220
+AMD Quad-Core Opteron 8378 Processor	113240
+AMD Ryzen 5 1400 3.2 GHz Quad-Core AM4 Processor	17560
+AMD 8-Core FX 9370 4.4 GHz Processor	27120
+AMD Opteron Hexadeca Core 6370P 2 GHz Server Processor	71840
+AMD Opteron 6164 1.7 GHz Processor	96920
+AMD Ryzen 5 1600X 3.6 GHz Six-Core AM4 Processor	24255
+AMD Ryzen 7 3700X 3.6 GHz Eight-Core AM4 Processor	38985
+AMD Six-Core Opteron 2431 Processor	26310
+AMD Opteron 6168 1.9 GHz Processor	96800
+AMD Ryzen 5 1600 3.2 GHz Six-Core AM4 Processor	19885
+AMD Opteron 6344 2.6 GHz 12-Core G34 Processor	59245
+AMD Opteron 6308 3.5 GHz Quad-Core G34 Processor	68560
+AMD Ryzen 5 1500X 3.5 GHz Quad-Core AM4 Processor	18810
+AMD Ryzen 9 3900X 3.8 GHz 12-Core AM4 Processor	67855
+AMD Opteron 6380 2.5 GHz 16-Core G34 Processor	139455
+AMD Ryzen 5 3400G 3.7 GHz Quad-Core AM4 Processor	17680
+AMD Quad-Core Opteron 2384 2.7 GHz Processor (OEM)	69830
+AMD Ryzen 5 3600 3.6 GHz Six-Core AM4 Processor	23515
+AMD Opteron 6378 2.4 GHz 16-Core G34 Processor	111695
+AMD Ryzen 5 2400G 3.6 GHz Quad-Core AM4 Processor	15250
+AMD Ryzen 7 1800X 3.6 GHz Eight-Core AM4 Processor	53365
+AMD Quad-Core Opteron 2356 Processor	89860
+AMD Ryzen 3 2200G 3.5 GHz Quad-Core AM4 Processor	10320
+AMD Ryzen Threadripper 1920X 3.5 GHz 12-Core sTR4 Processor	32515
+AMD Ryzen 7 3800X 3.9 GHz Eight-Core AM4 Processor	47390
+AMD Six-Core Opteron 2427 Processor	61110
+AMD Ryzen 7 1700 3.0 GHz Eight-Core AM4 Processor	38255
+AMD Ryzen Threadripper 2950X 3.5 GHz 16-Core sTR4 Processor	83615
+AMD Ryzen 7 1700X 3.4 GHz Eight-Core AM4 Processor	45185
+AMD Ryzen Threadripper 2990WX 3.0 GHz 32-Core sTR4 Processor	209420
+AMD Six-Core Opteron 2427 Processor (OEM)	61055
+Intel Celeron G4900 3.1 GHz Dual-Core LGA 1151 Processor (Retail)	6410
+Intel Core i3-7300 4.0 GHz Dual-Core LGA 1151 Processor	28310
+Intel Core i3-7350K 4.2 GHz Dual-Core Processor	25800
+Intel Core i3-8100 3.6 GHz Quad-Core LGA 1151 Processor	15930
+Intel Core i7-8700K 3.7 GHz 6-Core LGA 1151 Processor	44095
+Intel Core i9-7940X X-Series 3.1 GHz 14-Core LGA 2066 Processor (OEM)	183725
+Intel Core i9-7960X X-Series 2.8 GHz 16-Core LGA 2066 Processor (Retail)	171040
+Intel i5-9400 Processor (OEM, P0 Stepping)	24680
+Intel Xeon E3-1280 v2 3.6 GHz Processor	73960
+Intel Xeon Phi 7290 1.3 GHz Processor	784390
+AMD Athlon X2 370K Dual-core 4.0 GHz Processor	11565
+AMD Ryzen 3 3200G 3.6 GHz Quad-Core AM4 Processor	12105
+AMD Ryzen Threadripper 2970WX 3.9 GHz 24-Core sTR4 Processor	112140

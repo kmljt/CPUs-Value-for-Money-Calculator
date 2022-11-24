@@ -1,0 +1,53 @@
+Amd Ryzen Threadripper 3970X	178000
+Amd Ryzen Threadripper 3960X	122500
+E2500N Amd E1 2500 Dual Core Apu +Radeon Hd 8240 Mini Itx	3950
+Amd Ryzen5 3500	10799
+Amd – Cores 4 Threads 4 Processor Ryzen-3-1200 Cpu	4650
+Amd Ryzen™ 3 3200G With Radeon™ Vega 8 Graphics	8190
+Amd Ryzen™ 5 3400G With Radeon™ Rx Vega 11 Graphics	12790
+Amd Ryzen™ 5 3600	16799
+Amd Ryzen™ 7 3700X	28699
+Amd Ryzen™ 5 3600X	20599
+Amd Ryzen™ 7 3800X	30399
+Amd Ryzen™ 9 3900X	44900
+Amd – Cores 4 Threads 4 Processor Apu Ryzen 3 2200G Cpu	6100
+Amd – Cores 4 Threads 8 Processor Ryzen-5-2400G Cpu	9749
+Amd – Cores 6 Threads 12 Processor Ryzen-5-1600 Cpu	9299
+Amd – Cores 8 Threads 16 Processor Ryzen-7-2700X Cpu	19700
+Amd – Cores 8 Threads 16 Processor Ryzen-7-2700 Cpu	17800
+Amd – Cores 6 Threads 12 Processor Ryzen-5-2600X Cpu	13599
+Amd – Cores 6 Threads 12 Processor Ryzen-5-2600 Cpu	12199
+Amd – Cores 4 Threads 4 Processor Ryzen-3-1200 Cpu	4898
+Core I9-9900Kf Intel  9Th Gen	42999
+Core I7-9700Kf Intel  9Th Gen	29799
+Intel – Pentium G4400 Skylake Dual-Core 3.3Ghz Desktop Processor	4599
+Intel – Core I7 7740X Processor	22999
+I5-9600K Intel 9Th Gen Desktop Processor	16899
+Intel – Core I7-8086K Desktop Processor	33500
+Intel® Core™ I9-9980Xe Extreme Edition Processor	94999
+Intel – G4560 7Th Genenration Pentium Dual Core Processor	5149
+Intel – Pentium Gold G5400 Desktop Processor	4599
+Intel – Core I7-7820X Processor	51000
+Intel – Core I7 7800X Processor	45000
+Intel – Core I5-8400 Bx80684I58400 Processor	14999
+Intel – 8Th Generation I3 8100 Processor	10150
+Intel – Bx80677I37100 Core I3-7100 Socket Lga 1151 Processor	9799
+Intel – Core I3-6100 6Th Gen Lga 1151 Processor	8590
+Intel – Core I5-4570/4440/4460 Quad-Core Desktop Processor 3.2 Ghz 6Mb	11800
+Intel – I3 4150 (Lga 1150) Processor	8500
+I7-8700K Intel 8Th Gen 3.7 Ghz Processor	29199
+I7-8700 Intel 8Th Gen 3.2 Ghz	29999
+Intel – Core I9-7980Xe Processors Bx80673I97980X	202150
+Intel – Core I9 7960X Processor	139000
+Intel – Core I9 7940X Processor	99000
+Intel – Core I9-7920X Processor Bx80673I97920X	87000
+Intel – Core I9 7900X Processor	83000
+Intel – Core I5 7400 Lga 1151 7Th Generation Core Desktop Processor	14599
+Intel – Core I5-9600K Desktop Processor	16899
+Intel Core I7-9800X X-Series Processor	35199
+I5 9400F Intel 9Th Generation Desktop Processor 6 Cores Up To 4.1 Ghz Turbo Without Graphics Lga1151 300 Series 65W (Discrete Graphic Card Needed For Display)	11199
+I3-9100F Intel 9Th Gen Processor	6150
+I9-9900Ks	58000
+I9-9900K 9Th Gen Desktop Processor (Oem)	43500
+Amd – Cores 8 Threads 16 Processor Ryzen-7-2700 Cpu	17800
+I9-9900K 9Th Gen Desktop Processor	52000

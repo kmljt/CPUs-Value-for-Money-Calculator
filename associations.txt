@@ -1,0 +1,4085 @@
+1 Intel Core i5 9400F 9400 F
+Intel Corporation Core i5 9400F 9th Generation Desktop Processor 6 Cores up to 4.1 GHz Turbo Without Graphics LGA1151 300 Series 65W (Discrete Graphic Card Needed for Display)	11899
+9th Gen Intel® Core™ i5-9400F Desktop Processor 6 Cores up to 4.1GHz Without Processor Graphics LGA 1151 (Intel® 300 Series Chipset) 65W BX80684I59400F 	11199
+I5 9400F Intel 9Th Generation Desktop Processor 6 Cores Up To 4.1 Ghz Turbo Without Graphics Lga1151 300 Series 65W (Discrete Graphic Card Needed For Display)	11199
+Intel Core i5-9400F Coffee Lake 6-Core 2.9 GHz (4.10 GHz Turbo) Processor BX80684I59400F	11450
+
+
+2 Intel Core i5 9600K 9600 K
+Intel Core i5 9600K 9th Gen 6 Cores up to 4.6 GHz Turbo Unlocked LGA1151 95W 9 m Cache DDR4 Desktop Processor	19215
+Intel Core i5 9600K 9th Gen 6 Cores up to 4.6 GHz Turbo Unlocked LGA1151 95W 9 m Cache DDR4 Desktop Processor	19215
+9th Gen Intel® Core™ i5-9600K Desktop Processor 6 Cores up to 4.6GHz Unlocked LGA1151 (Intel® 300 Series chipset) 95W BX80684i59600K 	17499
+I5-9600K Intel 9Th Gen Desktop Processor	16899
+Intel – Core I5-9600K Desktop Processor	16899
+Intel Core i5-9600K Coffee Lake 6-Core 3.7 GHz Processor	18200
+Intel Core i5-9600K 3.7 GHz Six-Core LGA 1151 Processor	24215
+
+
+3 Intel Core i7 9700K 9700 K
+Intel Core i7 9700K Desktop 9th Generation Processor 8 Cores up to 4.9 GHz Turbo Unlocked LGA1151 300 Series 95W (Fan/Heatsink not incuded)	33000
+9th Gen Intel® Core™ i7-9700K Desktop Processor 8 Cores up to 4.9GHz Unlocked LGA1151 (Intel® 300 Series chipset) 95W BX80684I79700K 	30499
+Intel Core i7-9700K Coffee Lake 8-Core 3.6 GHz Desktop Processor	30699
+Intel Core i7-9700K 3.6 GHz Eight-Core LGA 1151 Processor	50175
+
+
+4 AMD Ryzen 5 3600 3600 
+AMD Ryzen 5 3600 Upto 4.2 GHz 6 Core 12 Threads AM4 Socket 35MB Cache Desktop Processor with Wraith Stealth Thermal Solution (100000031BOX)	17349
+Amd Ryzen 5 3600 3rd Generation Desktop Processor With Wraith Stealth Cooling Solution (6 Core, Up To 4.2 GHz, AM4 Socket, 35MB Cache) 	16899
+Amd Ryzen™ 5 3600	16799
+AMD Ryzen 5 3600 3rd Gen Desktop Processor 100-100000031BOX	16349
+AMD Ryzen 5 3600 3.6 GHz Six-Core AM4 Processor	23515
+
+
+5 Intel Core i3 9100F 9100 F
+Intel Core i3-9100F 9th Gen Desktop Processor 4 Core Up to 4.2 GHz LGA1151 300 Series 65W (Discrete Graphics Required)	6790
+9th Gen Intel® Core™ i3-9100F Desktop Processor 4 Cores up to 4.2GHz Without Processor Graphics LGA 1151 (Intel® 300 Series Chipset) 65W BX80684i39100F 	6199
+I3-9100F Intel 9Th Gen Processor	6150
+Intel Core i3 9100F 9th Generation Desktop Processor	6350
+
+
+6 Intel Core i9 9900K 9900 K
+Intel Core i9 9900K Coffee Lake 8-Core, 16-Thread, 3.6 GHz (5.0 GHz Turbo) LGA 1151 (300 Series) 95W BX80684I99900K Desktop Processor Intel UHD Graphics 630	52500
+Intel Core i9 9900K OEM 8-Core, 16-Thread, 3.6 GHz (5.0 GHz Turbo) LGA 1151 (300 Series) 95W BX80684I99900K Desktop Processor Intel UHD Graphics 630	47499
+9th Gen Intel® Core™ i9-9900K Desktop Processor 8 Cores up to 5.0GHz Unlocked LGA1151 (Intel® 300 Series chipset) 95W BX80684I99900K 	50999
+I9-9900K 9Th Gen Desktop Processor (Oem)	43500
+I9-9900K 9Th Gen Desktop Processor	52000
+Intel Core i9-9900K Coffee Lake 8-Core 3.6 GHz Processor	51499
+Intel Core i9-9900K 3.6 GHz Eight-Core LGA 1151 Processor	62025
+
+
+7 AMD Ryzen 7 3700X 3700 X
+AMD Ryzen 7 3700X Upto 4.4GHz 8 Core 16 Threads AM4 Socket 36MB Cache Desktop Processor with Wraith Prism with RGB LED Thermal Solution (100000071BOX)	30575
+Amd Ryzen 7 3700X 3rd Generation Desktop Processor With Wraith Prism Cooling Solution (8 Core, Up To 4.4 GHz, AM4 Socket, 36MB Cache) 	28799
+Amd Ryzen™ 7 3700X	28699
+AMD Ryzen 7 3700X 3rd Gen Desktop Processor 100-100000071BOX	28400
+AMD Ryzen 7 3700X 3.6 GHz Eight-Core AM4 Processor	38985
+
+
+8 AMD Ryzen 5 2600X 2600 X
+AMD 4.2GHz Socket AM4 Processor	14600
+AMD RYZEN 5 2600X 2nd Generation Desktop Processor With Wraith Spire Cooling Solution - (6 Core, Up To 4.2 GHz, AM4 Socket, 19MB Cache) 	14299
+Amd – Cores 6 Threads 12 Processor Ryzen-5-2600X Cpu	13599
+AMD RYZEN 5 2600X 6-Core 3.6 GHz (4.2 GHz Max Boost) Socket AM4 Processor	14900
+
+
+9 Intel Core i7 8700K 8700 K
+I7-8700K Intel 8Th Gen 3.7 Ghz Processor	29199
+Intel Core I7-8700K 3.70 GHz Coffee Lake-S 8TH GEN Processor	29800
+Intel Core i7-8700K 3.7 GHz 6-Core LGA 1151 Processor	44095
+
+
+10 AMD Ryzen 5 3400G 3400 G
+AMD Ryzen 5 3400G Upto 4.2GHz 4 Core 8 Threads AM4 Socket 6MB Cache with Radeon RX Vega 11 Graphics Desktop Processor & Wraith Spire Thermal Solution (YD3400C5FHBOX)	12961
+Amd Ryzen 5 3400G 2nd Generation Desktop Processor With Wraith Spire Cooling Solution (4 Core, Up To 4.2 GHz, AM4 Socket, 6MB Cache) 	12799
+Amd Ryzen™ 5 3400G With Radeon™ Rx Vega 11 Graphics	12790
+AMD Ryzen 5 3400G with Radeon RX Vega 11 Graphics 3rd Gen Desktop Processor YD3400C5FHBOX	12499
+AMD Ryzen 5 3400G 3.7 GHz Quad-Core AM4 Processor	17680
+
+
+11 Intel Core i7 4790K 4790 K
+
+
+12 AMD Ryzen 5 2600 2600 
+AMD Ryzen 5 2600 Desktop Processor 6 Cores up to 3.9GHz 19MB Cache AM4 Socket (YD2600BBAFBOX)	12330
+Intel® Core™ i7-2600 Processor 8M Cache, up to 3.80 GHz	8099
+AMD RYZEN 5 2600 2nd Generation Desktop Processor With Wraith Stealth Cooling Solution - (6 Core, Up To 3.9 GHz, AM4 Socket, 19MB Cache) 	12099
+Amd – Cores 6 Threads 12 Processor Ryzen-5-2600 Cpu	12199
+AMD RYZEN 5 2600 6-Core 3.4 GHz (3.9 GHz Max Boost) Socket AM4 Processor	12499
+
+
+13 Intel Core i7 7700K 7700 K
+Intel Core i7 7700K Processor	37999
+Intel 7th Gen Intel Core Desktop Processor i7-7700K	37999
+Intel Core i7-7700K 7700k Kaby Lake Processor 8M Cache up to 4.50 GHz	29600
+Intel Core i7-7700K 4.2 GHz Quad-Core LGA 1151 Processor	45775
+Intel Core i7-7700K 4.2 GHz Quad-Core LGA 1151 Processor (OEM)	48395
+
+
+14 Intel Core i5 9600KF 9600 KF
+Intel Core i5-9600KF Desktop Processor 6 Cores up to 4.6 GHz Turbo Unlocked Without Processor Graphics LGA1151 300 Series 95W	18000
+
+
+15 AMD Ryzen 5 1600 1600 
+AMD Ryzen 5 1600 Desktop Processor 6 Cores up to 3.6GHz 19MB Cache AM4 Socket (YD1600BBAEBOX)	8785
+AMD RYZEN 5 1600 Desktop Processor With Wraith Spire Cooling Solution - (6 Core, Up To 3.6 GHz, AM4 Socket, 19MB Cache) 	8799
+Amd – Cores 6 Threads 12 Processor Ryzen-5-1600 Cpu	9299
+AMD RYZEN 5 1600 3.2 GHz Socket AM4 Processor with Wraith Spire 65W cooler	8949
+AMD Ryzen 5 1600 3.2 GHz Six-Core AM4 Processor	19885
+
+
+16 Intel Core i7 2600K 2600 K
+
+
+17 Intel Core i5 8600K 8600 K
+Intel 8th Gen 6-Core 3.6 GHz/4.3 GHz Turbo i5 8600K Coffee Lake LGA 1151(300 Series) Desktop Processor with Graphics 630 - BX80684I58600K	20399
+Intel Core I5-8600K 3.50 GHz Coffee Lake-S 8TH GEN Processor	19900
+Intel Core i5-8600K 3.6 GHz 6-Core LGA 1151 Processor	29620
+
+
+18 AMD Ryzen 7 1700 1700 
+AMD Ryzen 7 1700 Desktop Processor 8 Cores up to 3.7GHz 20MB Cache AM4 Socket (YD1700BBAEBOX)	16440
+AMD RYZEN 7 1700 Desktop Processor With Wraith Spire Cooling Solution - (8 Core, Up To 3.7 GHz, AM4 Socket, 20MB Cache) 	14599
+AMD RYZEN 7 1700 3.0 GHz (3.7 GHz Turbo) Socket AM4 65W Desktop Processor	15749
+AMD Ryzen 7 1700 3.0 GHz Eight-Core AM4 Processor	38255
+
+
+19 AMD Ryzen 7 1700X 1700 X
+AMD Ryzen YD170XBCAEWOF 3.8GHz 7 Series Octa Core Processor	19401
+AMD RYZEN 7 1700X 3.4 GHz (3.8 GHz Turbo) Socket AM4 95W Desktop Processor	26699
+AMD Ryzen 7 1700X 3.4 GHz Eight-Core AM4 Processor	45185
+
+
+20 AMD Ryzen 9 3900X 3900 X
+AMD Ryzen 9 3900X 12-core, 24-Thread Unlocked Desktop Processor with Wraith Prism LED Cooler	51925
+Amd Ryzen 9 3900X 3rd Generation Desktop Processor With Wraith Prism Cooling Solution (12 Core, Up To 4.6 GHz, AM4 Socket, 70MB Cache) 	45990
+Amd Ryzen™ 9 3900X	44900
+AMD Ryzen 9 3900X 3rd Gen Desktop Processor 100-100000023BOX	44990
+AMD Ryzen 9 3900X 3.8 GHz 12-Core AM4 Processor	67855
+
+
+21 Intel Core i5 3570K 3570 K
+
+
+22 AMD Ryzen 7 2700X 2700 X
+AMD Ryzen 7 2700X Desktop Processor 8 Cores up to 4.3GHz 20MB Cache AM4 Socket (YD270XBGAFBOX)	19490
+AMD RYZEN 7 2700X 2nd Generation Desktop Processor - With Wraith Prism Cooling Solution RGB LED (8 Core, Up To 4.3 GHz, AM4 Socket, 20MB Cache) 	20299
+Amd – Cores 8 Threads 16 Processor Ryzen-7-2700X Cpu	19700
+AMD RYZEN 7 2700X 8-Core 3.7 GHz (4.3 GHz Max Boost) Socket AM4 Processor	19950
+AMD Ryzen 7 2700X AMD50 Gold Edition 3.7 GHz Processor YD270XBGAFA50	24499
+
+
+23 Intel Core i5 2500K 2500 K
+Intel® Core™ i5-2500K Processor	4099
+
+
+24 Intel Core i7 6700K 6700 K
+
+
+25 Intel Core i5 7600K 7600 K
+Intel Core i5 7600K Processor	18899
+
+
+26 AMD Ryzen 7 1800X 1800 X
+AMD YD180XBCAEWOF 4GHz Socket AM4 Processor	51175
+AMD RYZEN 7 1800X 3.6 GHz (4.0 GHz Turbo) Socket AM4 95W Desktop Processor	20999
+AMD Ryzen 7 1800X 3.6 GHz Eight-Core AM4 Processor	53365
+
+
+27 AMD Ryzen 5 1600X 1600 X
+AMD Ryzen 5 1600X Processor	19400
+AMD RYZEN 5 1600X 3.6 GHz (4.0 GHz Turbo) Socket AM4 95W Desktop Processor	13800
+AMD Ryzen 5 1600X 3.6 GHz Six-Core AM4 Processor	24255
+
+
+28 Intel Core i5 4690K 4690 K
+Intel Core I5-4690K 3.5 Ghz Unlocked Quad Core Lga1150 Socket Processor (6M Cache, Up to 3.90 Ghz)	43274
+
+
+29 AMD Ryzen 5 3600X 3600 X
+AMD Ryzen 5 3600X Upto 4.4GHz 6 Core 12 Threads AM4 Socket 35MB Cache Desktop Processor with Wraith Spire Thermal Solution (100000022BOX)	19490
+Amd Ryzen 5 3600X 3rd Generation Desktop Processor With Wraith Spire Cooling Solution (6 Core, Up To 4.4 GHz, AM4 Socket, 35MB Cache) 	20699
+Amd Ryzen™ 5 3600X	20599
+AMD Ryzen 5 3600X 3rd Gen Desktop Processor 100-100000022BOX	20849
+
+
+30 Intel Core i5 6600K 6600 K
+Intel BX80662I56600K Core i5-6600K (3.5 GHz) Socket 1151 Quad Core Processor	22499
+Intel Core I5 6600K BX80662I56600K Processor	20650
+
+
+31 Intel Core i7 8700 8700 
+I7-8700 Intel 8Th Gen 3.2 Ghz	29999
+Intel Core I7-8700 3.20 GHz Coffee Lake 8TH GEN Processor	30699
+Intel Box Core+ i7-8700 3.2GHz 6C 12T 12MB Processor	53210
+
+
+32 Intel Core i7 7700HQ 7700 HQ
+
+
+33 Intel Pentium G4560 4560 G
+Intel G4560 7th Genenration Pentium Dual Core Processor	6998
+ INTEL® PENTIUM® G4560 Desktop Processor 2 Core Up To 3.50 GHz LGA1151 200 Series 54W 	4899
+Intel – G4560 7Th Genenration Pentium Dual Core Processor	5149
+Intel G4560 Kaby Lake Dual Core 3.5 GHz Desktop Processor	4750
+
+
+34 AMD Ryzen 7 3800X 3800 X
+AMD Ryzen 7 3800X 8-core, 16-Thread Unlocked Desktop Processor with Wraith Prism LED Cooler	35170
+Amd Ryzen 7 3800X 3rd Generation Desktop Processor With Wraith Prism Cooling Solution (8 Core, Up To 4.5 GHz, AM4 Socket, 36MB Cache) 	30499
+Amd Ryzen™ 7 3800X	30399
+AMD Ryzen 7 3800X 3rd Gen Desktop Processor 100-100000025BOX	30199
+AMD Ryzen 7 3800X 3.9 GHz Eight-Core AM4 Processor	47390
+
+
+35 AMD Ryzen 7 2700 2700 
+AMD Ryzen 7 2700 Desktop Processor 8 Cores up to 4.1GHz 20MB Cache AM4 Socket (YD2700BBAFBOX)	18415
+AMD RYZEN 7 2700 2nd Generation Desktop Processor With Wraith Spire Cooling Solution RGB LED - (8 Core, Up To 4.1 GHz, AM4 Socket, 20MB Cache) 	17899
+Amd – Cores 8 Threads 16 Processor Ryzen-7-2700 Cpu	17800
+Amd – Cores 8 Threads 16 Processor Ryzen-7-2700 Cpu	17800
+AMD RYZEN 7 2700 8-Core 3.2 GHz (4.1 GHz Max Boost) Socket AM4 Processor	18400
+
+
+36 Intel Core i3 8100 8100 
+8th Gen Intel® Core™ i3-8100 Desktop Processor 4 Cores up to 3.6GHz LGA1151 (Intel® 300 Series chipset) 65W BX80684i38100 	10599
+Intel – 8Th Generation I3 8100 Processor	10150
+Intel Core I3-8100 3.60 GHz Coffee Lake-S 8TH GEN Processor	10600
+Intel Core i3-8100 3.6 GHz Quad-Core LGA 1151 Processor	15930
+
+
+37 AMD Ryzen 5 2400G 2400 G
+AMD Ryzen 5 2400G Desktop Processor of 4 Core with speed upto 3.9GHz and AM4 Socket Radeon RX Vega 11 Graphics (YD2400C5FBBOX)	10596
+AMD RYZEN 5 2400G 1st Generation Desktop Processor - (Radeon Vega 11 Graphics, 4 Core, Up To 3.9 GHz, AM4 Socket, 6MB Cache) 	9839
+Amd – Cores 4 Threads 8 Processor Ryzen-5-2400G Cpu	9749
+AMD Ryzen 5 2400G Processor with Radeon RX Vega 11 Graphics	9849
+AMD Ryzen 5 2400G 3.6 GHz Quad-Core AM4 Processor	15250
+
+
+38 AMD Ryzen 3 2200G 2200 G
+AMD Ryzen 3 2200G with Radeon Vega 8 Graphics Desktop Processor 4 Cores up to 3.7GHz 6MB Cache AM4 Socket (YD2200C5FBBOX)	6202
+Amd – Cores 4 Threads 4 Processor Apu Ryzen 3 2200G Cpu	6100
+AMD Ryzen 3 2200G Processor with Radeon Vega 8 Graphics	6050
+AMD Ryzen 3 2200G 3.5 GHz Quad-Core AM4 Processor	10320
+
+
+39 Intel Core i5 6500 6500 
+Intel Core i5 6500 LGA1151 Socket 3.20GHz Processor	30000
+Intel Core i5-6500 3.2 GHz Quad-Core Processor	28325
+
+
+40 Intel Core i7 8750H 8750 H
+
+
+41 AMD Ryzen TR 2950X 2950 X
+AMD Ryzen Threadripper 2950X Processor (YD295XA8AFWOF)	79990
+AMD RYZEN THREADRIPPER 2950X 2nd Generation Desktop Processor - (16 Core, Up To 4.4 GHz, TR4 Socket, 40MB Cache) 	69999
+AMD Ryzen 2nd Gen Threadripper 2950X Processor	75999
+AMD Ryzen Threadripper 2950X 3.5 GHz 16-Core sTR4 Processor	83615
+
+
+42 AMD Ryzen TR 1950X 1950 X
+AMD Ryzen Threadripper 1950X Desktop Processor 16 Cores up to 4GHz 40MB Cache sTR4 Socket (YD195XA8AEWOF)	67900
+AMD Ryzen Threadripper TR 1950X 4.0 GHz Turbo Desktop Processor	61348
+
+
+43 AMD Ryzen 3 3200G 3200 G
+AMD Ryzen™ 3 3200G with Radeon™ Vega 8 Graphics	8894
+Amd Ryzen 3 3200G 2nd Generation Desktop Processor With Wraith Stealth Cooling Solution (4 Core, Up To 4 GHz, AM4 Socket, 6MB Cache) 	8449
+Amd Ryzen™ 3 3200G With Radeon™ Vega 8 Graphics	8190
+AMD Ryzen 3 3200G with Radeon Vega 8 Graphics 3rd Gen Desktop Processor YD3200C5FHBOX	8200
+AMD Ryzen 3 3200G 3.6 GHz Quad-Core AM4 Processor	12105
+
+
+44 Intel Core i3 9350KF 9350 KF
+Intel Core i3-9350KF Processor	22190
+
+
+45 AMD Ryzen TR 2990WX 2990 WX
+AMD Ryzen Threadripper 2990WX Processor (YD299XAZAFWOF)	165750
+AMD Ryzen 2nd Gen Threadripper 2990WX Processor	153200
+AMD Ryzen Threadripper 2990WX 3.0 GHz 32-Core sTR4 Processor	209420
+
+
+46 AMD Ryzen 5 1500X 1500 X
+AMD YD150XBBAEBOX 3.7GHz Socket AM4 Processor	12435
+AMD RYZEN 5 1500X 3.6 GHz Socket AM4 Desktop Processor with Wraith Spire 95W cooler	9200
+AMD Ryzen 5 1500X 3.5 GHz Quad-Core AM4 Processor	18810
+
+
+47 Intel Core i7 4770K 4770 K
+
+
+48 Intel Core i7 5820K 5820 K
+
+
+49 AMD Ryzen TR 2920X 2920 X
+AMD Ryzen Threadripper 2920X (12-Core/24-Thread) Processor 4.3 GHz Max Boost 38MB Cache (YD292XA8AFWOF)	56900
+AMD Ryzen 2nd Gen Threadripper 2920X Desktop Processor	50999
+
+
+50 AMD Ryzen 3 1300X 1300 X
+AMD Ryzen 3 1300X Desktop Processor with Wraith Stealth Cooler (YD130XBBAEBOX)	8830
+AMD RYZEN 3 1300X 3.5 GHz Socket AM4 Desktop Processor with Wraith Stealth Cooler	6675
+
+
+51 AMD Ryzen 3 1200 1200 
+AMD Ryzen 3 1200 Desktop Processor with Wraith Stealth Cooler (YD1200BBAEBOX)	5999
+AMD RYZEN 3 1200 Desktop Processor With Wraith Stealth Cooling Solution - (4 Core, Up To 3.4 GHz, AM4 Socket, 10MB Cache) 	4890
+Amd – Cores 4 Threads 4 Processor Ryzen-3-1200 Cpu	4650
+Amd – Cores 4 Threads 4 Processor Ryzen-3-1200 Cpu	4898
+AMD RYZEN 3 1200 3.1 GHz Socket AM4 Processor	4949
+
+
+52 AMD Ryzen 5 1400 1400 
+AMD Ryzentm 5 1400	8490
+AMD RYZEN 5 1400 3.2 GHz Socket AM4 Processor with Wraith Stealth 65W cooler	8800
+AMD Ryzen 5 1400 3.2 GHz Quad-Core AM4 Processor	17560
+
+
+53 Intel Core i5 4590 4590 
+Intel Core i5-4590 3.3GHz Quad Core LGA1150 Socket Processor (6M Cache, up to 3.70 GHz)	9699
+
+
+54 Intel Core i7 6700HQ 6700 HQ
+
+
+55 AMD Ryzen 5 2500U 2500 U
+
+
+56 AMD Ryzen TR 1920X 1920 X
+AMD Ryzen Threadripper 1920X Desktop Processor 12 Cores up to 4GHz 40MB Cache sTR4 Socket (YD192XA8AEWOF)	33699
+AMD Ryzen Threadripper TR 1920X 4.0 GHz Turbo Desktop Processor	63189
+AMD Ryzen Threadripper 1920X 3.5 GHz 12-Core sTR4 Processor	32515
+
+
+57 Intel Core i7 2600 2600 
+Intel® Core™ i7-2600 Processor 8M Cache, up to 3.80 GHz	8099
+Intel Core i7-2600 Quad-Core Processor 3.4 GHz 8 MB Cache LGA 1155 - BX80623I72600	45962
+
+
+58 AMD Ryzen 3 2200U 2200 U
+
+
+59 AMD Ryzen 7 2700U 2700 U
+
+
+60 Intel Core i5 4670K 4670 K
+Intel Core i5-4670K Quad-Core Desktop Processor 3.4 GHZ 6 MB Cache - BX80646I54670K	21949
+
+
+61 AMD Ryzen TR 1900X 1900 X
+AMD RYZEN THREADRIPPER 1900X 12 CORE 4GHz TR4 180W Processor ( YD190XA8AEWOF )	29990
+AMD Ryzen Threadripper 1900X Desktop Processor	26000
+
+
+62 Intel Core i7 7700 7700 
+Intel Core i7-7700 Processor 8M Cache, Up To 3.60 GHz 7th Generation	28299
+Intel BX80677I77700 i7-7700 3.6 GHz Kaby Lake Processor - 8.0 GTs44; 8 MB LGA 1151 CPU	18999
+Intel Core i7-7700 7700 Kaby Lake Processor 8M Cache up to 4.20 GHz	25300
+
+
+63 Intel Core i7 6850K 6850 K
+
+
+64 Intel Core i5 2500 2500 
+Intel Core i5-2500 SR00T 3.30GHz Processor Socket 1155 LGA 1155	3100
+
+
+65 Intel Core i7 3930K 3930 K
+
+
+66 Intel Core i7 6800K 6800 K
+
+
+67 Intel Core i7 6950X 6950 X
+Intel Core i7-6950X 3.0 GHz Ten-Core LGA 2011-v3 Extreme Edition Processor	215625
+Intel Core i7-6950X 3.0 GHz Ten-Core LGA 2011-v3 Extreme Edition Processor (OEM)	219005
+
+
+68 Intel Core i3 6100 6100 
+Intel Core i3-6100 6th Gen LGA 1151 Processor	9250
+Intel® Core™ i3-6100 Desktop Processor 2 Core 3.7GHz LGA1151 200 Series 51W BX80662I36100 	8899
+Intel – Core I3-6100 6Th Gen Lga 1151 Processor	8590
+Intel Core i3-6100 3.7 GHz Dual-Core LGA 1151 Processor (Retail)	15130
+
+
+69 Intel Core i5 6600 6600 
+Intel Core i5-6600 FCLGA 1151 Processor	21499
+Intel Core i5-6600 3.3 GHz Quad-Core Processor	28995
+
+
+70 Intel Core i7 7820X 7820 X
+Intel Core i7 7820X Processor	51000
+Intel – Core I7-7820X Processor	51000
+
+
+71 Intel Core i7 4790 4790 
+Intel Core i7-4790 Processor	19999
+
+
+72 Intel Core i5 8300H 8300 H
+
+
+73 Intel Core i7 6700 6700 
+Intel Core i7 6700 Socket LGA1151 3.40GHz Processor	36799
+Intel Core i7-6700 3.4 GHz Quad-Core Processor	41550
+Intel Core i7-6700 3.4 GHz Quad-Core Processor (OEM)	42290
+
+
+74 Intel Core i5 8500 8500 
+Intel® Core™ i5-8500 Processor 9M Cache,  3.00 GHz up to 4.10 GHz / 8th Generation / 6 core/ DDR4/ Intel® UHD Graphics 630	20099
+Intel Core i5-8500 3.0 GHz Six-Core LGA 1151 Processor (Retail)	30575
+
+
+75 Intel Core i5 2400 2400 
+Intel Core i5-2400 Quad-Core Processor 3.1 GHz 6 MB Cache LGA 1155 - BX80623I52400	2600
+Processor Intel i5 2400 2nd Generation.Box Pack with Fan.1 Year Warranty.(OEM Pack) 3.1 GHZ	2900
+
+
+76 Intel Core i5 8400 8400 
+Intel Core i5-8400 BX80684I58400 Processor	16949
+8th Gen Intel® Core™ i5-8400 Desktop Processor 6 Cores up to 4.0GHz Turbo LGA1151 (Intel® 300 Series chipset) 65W BX80684i58400 	15999
+Intel – Core I5-8400 Bx80684I58400 Processor	14999
+Intel Core I5-8400 2.80 GHz Coffee Lake-S 8TH GEN Processor	16199
+
+
+77 Intel Core i7 8550U 8550 U
+
+
+78 AMD Athlon 200GE 200 GE
+AMD Athlon 200GE 2-Core, 4-Thread, 3.2GHz AM4 Socket Desktop Processor with Radeon Vega 3 Graphics	3698
+AMD ATHLON 200GE APU Series Desktop Processor - (Radeon Vega 3 Graphics, 2 Core, Up To 3.2 GHz, AM4 Socket, 5MB Cache) 	3699
+AMD ATHLON 200GE APU Series Desktop Processor YD200GC6FBBOX	4050
+
+
+79 Intel Core i7 3770K 3770 K
+
+
+80 Intel Core i7 5930K 5930 K
+
+
+81 AMD Ryzen 9 3950X 3950 X
+AMD Ryzen 9 3950X AM4 Ready Desktop Processor with 16 Cores 32 Threads 73MB of Game Cache Capable of Max Boost Clock of 4.7Ghz and Support for x16 PCIe 4.0	79999
+Amd Ryzen 9 3950X 3rd Generation Desktop Processor (16 Core, Up To 4.7 GHz, AM4 Socket, 73MB Cache) 	67999
+AMD Ryzen 9 3950X 3rd Gen Desktop Processor ADV100000051WOF	68800
+
+
+82 Intel Core i5 7500 7500 
+Intel Core i5 7500 Processor	19799
+Intel Core i5-7500 7500 Kaby Lake Processor 6M Cache up to 3.80 GHz	18200
+
+
+83 AMD Ryzen 5 3500U 3500 U
+
+
+84 AMD Ryzen 7 3750H 3750 H
+
+
+85 AMD Ryzen 3 2300U 2300 U
+
+
+86 AMD FX 8350 8350 
+AMD FX 8-Core FX8350 Processor with Wraith Cooler	17199
+AMD FX 8350 Processor	39393
+AMD CPU FD8350FRHKHBX FX-8350 8Core AM3 16MB 4200MHz 125W with Wraith Cooler Retail	19299
+AMD FX-8350 Black Edition Vishera 8-Core 4.0 GHz Desktop Processor	12000
+
+
+87 Intel Core i5 4460 4460 
+Intel Core i5-4460 Processor 6M Cache, up to 3.40 GHz (BX80646I54460)	17500
+Intel – Core I5-4570/4440/4460 Quad-Core Desktop Processor 3.2 Ghz 6Mb	11800
+
+
+88 AMD Ryzen 5 3550H 3550 H
+
+
+89 Intel Core i7 3770 3770 
+Intel - Core i7 3770 Processor TRAY	41932
+Intel® Core™ i7-3770 Processor 8M Cache, up to 3.90 GHz	12599
+Intel BX80637I73770 Core i7 3770 Ivy Bridge 3.4 GHz Socket 1155 77W Quad-core Desktop Processor	68175
+
+
+90 AMD Ryzen 3 3200U 3200 U
+
+
+91 AMD Ryzen 5 3500X 3500 X
+
+
+92 AMD Ryzen 5 2500X 2500 X
+
+
+93 Intel Core2 Quad Q6600 6600 Q
+Intel Core 2 Quad Q6600 2.4 GHz Quad-Core CPU Processor SLACR LGA 775 8M Cache	11235
+
+
+94 Intel Core i5 7600 7600 
+Intel Core i5 7600 Processor	19798
+Intel Core i5-7600 3.5 GHz Quad-Core LGA 1151 Processor	30220
+
+
+95 AMD Ryzen 7 3700U 3700 U
+
+
+96 Intel Core i5 3470 3470 
+Intel Core i5 i5-3470 3.20 GHz Processor - Socket H2 LGA-1155	4500
+Intel Core i5 i5-3470 3.20 GHz Processor - Socket H2 LGA-1155	4500
+CHIST Intel Core I5 3RD Gen 3470 3.2GHz Processor H61 MB with HDMI 8GB Ram 500GB Hard Disk WiFi	13200
+
+
+97 AMD FX 8320 8320 
+AMD FX-8320 8 Core Piledriver Processor	14999
+
+
+98 Intel Core i5 3570 3570 
+Intel CM8063701093103 Core i5 Processor i5-3570 3.4GHz 5.0GT/s 6MB LGA 1155 CPU, OEM OEM	4500
+Intel Core i5 i5-3570 3.40 GHz Processor - Socket H2 LGA-1155	40325
+
+
+99 AMD Phenom II X4 965 965 
+
+
+100 AMD Phenom II X4 955 955 
+
+
+101 Intel Core i5 8250U 8250 U
+
+
+102 Intel Core i7 9750H 9750 H
+
+
+103 Intel Core i5 4570 4570 
+Intel Core i5-4570 Quad-Core Desktop Processor 3.2 GHZ 6MB Cache- BX80646I54570	9729
+
+
+104 AMD FX 8370 8370 
+AMD 4 GHz FX-8370 Octa-core Desktop Processor with Wraith Cooler, Black Edition FD8370FRHKHBX	22449
+
+
+105 Intel Core i7 920 920 
+
+
+106 Intel Core i7 4770 4770 
+Intel 4th Gen Core i7-4770 Desktop Processors	19999
+
+
+107 Intel Core i5 4690 4690 
+Intel Core i5-4690 3.5 GHz Quad Core LGA1150 Socket Processor (6M Cache, up to 3.90 GHz)	37967
+
+
+108 Intel Core i7 5960X 5960 X
+Intel Core i7-5960X Haswell-E 8-Core 3.0GHz Desktop Processor	89799
+
+
+109 Intel Core i5 7200U 7200 U
+
+
+110 Intel Pentium G3258 3258 G
+Intel Pentium G3258 3.20GHz Dual Core Processor	7290
+
+
+111 AMD FX 9590 9590 
+
+
+112 Intel Core i7 3630QM 3630 QM
+
+
+113 Intel Xeon E5450 5450 E
+Intel Xeon E5450 Quad Core Processor 12M Cache, 3.00 GHz, 1333 MHz FSB,Socket LGA771	3500
+
+
+114 Intel Core i9 7900X 7900 X
+Intel – Core I9 7900X Processor	83000
+
+
+115 Intel Core i7 950 950 
+
+
+116 Intel Core i5 6400 6400 
+Intel Core i5 6400 Socket LGA1151 2.70 GHz Processor	24459
+
+
+117 Intel Core i9 7980XE 7980 XE
+Intel Corp. Core i9 7980X Processor	178100
+Intel – Core I9-7980Xe Processors Bx80673I97980X	202150
+Intel Core i9-7980XE X-Series Extreme Edition 2.6 GHz 18-Core Processor BX80673I97980X	162699
+Intel Core i9-7980XE X-Series Extreme Edition 2.6 GHz 18-Core LGA 2066 Processor (OEM)	251865
+Intel Core i9-7980XE X-Series Extreme Edition 2.6 GHz 18-Core LGA 2066 Processor (Retail)	218510
+
+
+118 Intel Core i5 7300HQ 7300 HQ
+
+
+119 Intel Core i7 4700MQ 4700 MQ
+
+
+120 Intel Core2 Quad Q9650 9650 Q
+
+
+121 Intel Core i7 8565U 8565 U
+
+
+122 Intel Xeon X3440 3440 X
+
+
+123 Intel Core i7 7500U 7500 U
+
+
+124 AMD A10 7850K 7850 K
+
+
+125 Intel Core i7 2700K 2700 K
+Intel Core i7-2700K Quad-Core Processor 3.5 GHz 8 MB Cache LGA 1155 - BX80623I72700K	46529
+
+
+126 Intel Xeon X5460 5460 X
+
+
+127 Intel Core i7 3610QM 3610 QM
+
+
+128 Intel Core i5 750 750 
+
+
+129 Intel Core i3 8350K 8350 K
+Intel Core i3-8350K 4.0 GHz Quad-Core LGA 1151 Processor	24335
+
+
+130 Intel Pentium G4600 4600 G
+
+
+131 Intel Core i9 7960X 7960 X
+Intel Core i9 7960X Processor	154999
+Intel Core i9 7960X - LGA2066 - For X299 Chipset Board (X-Series ,16 Cores, 32 Threads, 22M Cache, up to 4.20 GHz, 44 PCI Express Lanes)	145999
+Intel – Core I9 7960X Processor	139000
+Intel Core i9-7960X X-Series 2.8 GHz 16-Core LGA 2066 Processor (Retail)	171040
+
+
+132 Intel Core i3 7100 7100 
+Intel BX80677I37100 Core i3-7100 Socket LGA 1151 Processor	9690
+Intel – Bx80677I37100 Core I3-7100 Socket Lga 1151 Processor	9799
+Intel Core i3-7100 7100 Kaby Lake Desktop Processor 3M Cache 3.90 GHz	9300
+
+
+133 AMD Ryzen TR 2970WX 2970 WX
+AMD Ryzen Threadripper 2970WX (24-Core/48-Thread) Processor 4.2 GHz Max Boost 76MB Cache (YD297XAZAFWOF)	123710
+AMD Ryzen 2nd Gen Threadripper 2970WX Desktop Processor	96999
+AMD Ryzen Threadripper 2970WX 3.9 GHz 24-Core sTR4 Processor	112140
+
+
+134 Intel Core i9 9900KF 9900 KF
+Intel Core i9-9900KF Desktop Processor 8 Cores up to 5.0 GHz Turbo Unlocked Without Processor Graphics LGA1151 300 Series 95W	44900
+9th Gen Intel® Core™ i9-9900KF Desktop Processor 8 Cores up to 5.0GHz Unlocked LGA1151 (Intel® 300 Series chipset) 95W 	41499
+Intel Core i9-9900KF Coffee Lake 8-Core 3.6 GHz 9th Gen Desktop Processor Without Graphics BX80684I99900KF	43000
+
+
+135 Intel Core i7 4700HQ 4700 HQ
+
+
+136 Intel Xeon X5650 5650 X
+Intel Xeon X5650 Six-Core Processor SLBV3	6500
+
+
+137 Intel Core i3 8130U 8130 U
+
+
+138 Intel Core i3 4160 4160 
+Intel Core i3-4160 Haswell 3.60GHz Processor	7839
+
+
+139 Intel Core2 Quad Q9550 9550 Q
+Intel Core 2 Quad Q9550 2.83 GHz 1333MHz 12 MB Quad-Core CPU Processor SLB8V SLAWQ LGA 775	14550
+
+
+140 AMD Ryzen 3 3300U 3300 U
+
+
+141 Intel Pentium G4620 4620 G
+
+
+142 Intel Core i7 7820HK 7820 HK
+
+
+143 Intel Xeon X5690 5690 X
+
+
+144 Intel Xeon X3470 3470 X
+
+
+145 Intel Core i9 8950HK 8950 HK
+
+
+146 AMD Athlon II X4 750K 750 K
+
+
+147 AMD FX 6300 6300 
+
+
+148 Intel Core i7 4771 4771 
+
+
+149 AMD Athlon II X4 860K 860 K
+
+
+150 AMD FX 9370 9370 
+AMD FX 9370 8 Cores 5 O.C. GHz Desktop Processor for Gaming	24999
+AMD 8-Core FX 9370 4.4 GHz Processor	27120
+
+
+151 AMD FX 6100 6100 
+AMD FD6100WMGUSBX Processor	29377
+
+
+152 Intel Core i7 7800X 7800 X
+Intel Core i7-7800X Processor	35750
+Intel Core i7 7800X Processor	35750
+Intel – Core I7 7800X Processor	45000
+Intel Core i7-7800X Skylake-X 6-Core 3.5 GHz Desktop Processor	33200
+
+
+153 AMD Ryzen 5 3500 3500 
+AMD RYZEN 5 3500 3RD Generation Desktop Processor (6 CORE, UP to 4.1 GHZ, AM4 Socket, 19MB Cache)	11679
+AMD RYZEN 5 3500 3RD Generation Desktop Processor (6 CORE, UP to 4.1 GHZ, AM4 Socket, 19MB Cache)	11679
+Amd Ryzen 5 3500 3rd Generation Desktop Processor With Wraith Stealth Cooling Solution (6 Core, Up To 4.1 GHz, AM4 Socket, 16MB Cache) 	10999
+Amd Ryzen5 3500	10799
+AMD Ryzen 5 3500 3rd Gen Desktop Processor	10650
+
+
+154 Intel Pentium G3220 3220 G
+
+
+155 Intel Pentium Gold G5400 5400 G
+Intel Pentium Gold G5400 Desktop Processor 2 Core 3.7GHz LGA1151 300 Series 54W/58W BX80684G5400	4988
+Intel® Pentium® Gold G5400 Desktop Processor 2 Core Up To 3.70 GHz LGA1151 300 Series 58W BX80684G5400 	4985
+Intel – Pentium Gold G5400 Desktop Processor	4599
+Intel Pentium Gold G5400 Coffee Lake Dual-Core 3.7 GHz Processor	4200
+Intel Pentium G5400 3.7 GHz Dual-Core LGA 1151 Processor (Retail)	7935
+
+
+156 Intel Core i7 4930K 4930 K
+Intel i7-4930K LGA 2011 64 Technology Extended Memory CPU Processors BX80633I74930K	57399
+
+
+157 Intel Core i7 4820K 4820 K
+Intel i7-4820K LGA 2011 64 Technology Extended Memory CPU Processors BX80633I74820K	37799
+
+
+158 Intel Pentium G4400 4400 G
+Intel Pentium G4400 Skylake Dual-Core 3.3GHz Desktop Processor	4655
+INTEL® PENTIUM® G4400 Desktop Processor 2 Core Up To 3.30 GHz LGA1151 100 Series 54W 	4399
+Intel – Pentium G4400 Skylake Dual-Core 3.3Ghz Desktop Processor	4599
+Intel Pentium G4400 Skylake Dual Core 3.3 GHz Desktop Processor	4750
+
+
+159 Intel Core i7 4771 4771 
+
+
+160 AMD Phenom II X6 1100T 1100 T
+
+
+161 AMD Phenom II X6 1055T 1055 T
+
+
+162 Intel Core i5 3330 3330 
+
+
+163 Intel Core i5 6300HQ 6300 HQ
+
+
+164 AMD FX 8150 8150 
+
+
+165 Intel Core i7 2670QM 2670 QM
+
+
+166 Intel Core i7 8850H 8850 H
+
+
+167 Intel Pentium Silver N5000 5000 N
+
+
+168 Intel Core i7 6500U 6500 U
+
+
+169 Intel Core i3 4170 4170 
+Intel Core i3-4170 Processor 3M Cache, 3.70 GHz Latest 4th Generation LGA 1150 Desktop Processor Intel HD Graphics 4400	12099
+
+
+170 Intel Core i5 4670 4670 
+Intel Core i5-4670 3.4GHz 6MB Cache Quad-Core Desktop Processor BX80646I54670	19899
+
+
+171 AMD FX 8320E 8320 E
+AMD FX8320E 3.2GHz Processor	13480
+AMD FX 8320E (8 core) processor	17911
+
+
+172 Intel Core i3 3240 3240 
+Intel Core i3-3240 Dual-Core Processor 3.4 Ghz 3 MB Cache LGA 1155 - BX80637i33240	3499
+Intel Core i3-3240 (3rd Gen) Ivy Bridge 3.40 GHz LGA 1155 55W (Box Pack with Fan) Special Edition.(OEM)	3480
+
+
+173 AMD Phenom II X6 1090T 1090 T
+
+
+174 Intel Core i7 7740X 7740 X
+Intel Core i7 7740X Processor	28490
+Intel – Core I7 7740X Processor	22999
+
+
+175 Intel Core2 Duo E8600 8600 E
+
+
+176 Intel Core i5 2520M 2520 M
+
+
+177 Intel Core2 Quad Q9400 9400 Q
+Intel Core 2 Quad Q9400 Processor 2.66 GHz 1333 MHz 6 MB LGA775 EM64T CPU	34755
+
+
+178 Intel Core i9 9980XE 9980 XE
+Intel Core i9-9980XE Extreme Edition Processor 18 Cores up to 4.4GHz Turbo Unlocked LGA2066 X299 Series 165W Processors	99500
+Intel® Core™ I9-9980Xe Extreme Edition Processor	94999
+Intel Core i9-9980XE Extreme Edition 3.0 GHz Eighteen-Core LGA 2066 Processor	99500
+
+
+179 Intel Core i7 7920HQ 7920 HQ
+
+
+180 Intel Core i3 2120 2120 
+Intel i3-2120 3.3GHz Processor	2500
+
+
+181 AMD A8 7600 7600 
+
+
+182 Intel Core i3 6006U 6006 U
+
+
+183 AMD A10 6800K 6800 K
+
+
+184 AMD FX 4300 4300 
+AMD FX 4-Core Black Edition FX-4300 3.8GHz Processor	5999
+
+
+185 AMD A10 5800K 5800 K
+
+
+186 Intel Core i3 3220 3220 
+Intel Core i3 3220 3.30 GHz 3M LGA 1155 CPU Processor	2040
+The620Guy Intel Core i3 3220 3.3GHz 3.30GHz 1155 Ivy Bridge CPU Processor	3010
+
+
+187 Intel Core i7 8086K 8086 K
+Intel – Core I7-8086K Desktop Processor	33500
+Intel Core i7-8086K Coffee Lake Processor Limited Edition	41500
+
+
+188 Intel Core i5 3550 3550 
+
+
+189 Intel Core i5 9400 9400 
+Intel® Core™ I5-9400 Desktop Processor	17409
+Intel Core 2 Quad Q9400 Processor 2.66 GHz 1333 MHz 6 MB LGA775 EM64T CPU	34755
+9th Gen Intel® Core™ i5-9400 Desktop Processor 6 Cores up to 4.1GHz LGA 1151 (Intel® 300 Series Chipset) 65W 	15899
+Intel Core i5-9400 Coffee Lake 6-Core 2.9 GHz (4.10 GHz Turbo) Processor BX80684I59400	16799
+Intel i5-9400 Processor (OEM, P0 Stepping)	24680
+
+
+190 Intel Pentium G4500 4500 G
+Intel Boxed Pentium Processor G4500 FC-LGA14C 3.5 1 LGA 1151 BX80662G4500	5999
+
+
+191 Intel Core i5 7640X 7640 X
+Lexar Intel Core i5 7640X Processor	21599
+Intel Core i5-7640X Kaby Lake-X Quad-Core 4.0 GHz Desktop Processor	18350
+
+
+192 Intel Core i3 7350K 7350 K
+Intel Core i3 7350K Processor	15500
+Intel Core i3-7350K 4.2 GHz Dual-Core Processor	25800
+
+
+193 Intel Core i5 760 760 
+
+
+194 Intel Core i5 7400 7400 
+Intel Core i5 7400 - LGA1151 - 7th Generation Core Desktop Processor (LGA1151, 3.0Ghz Upto 3.5Ghz Turbo, 6MB Cache)	16500
+Intel – Core I5 7400 Lga 1151 7Th Generation Core Desktop Processor	14599
+Intel Core i5-7400 7400 Kaby Lake Processor 6M Cache up to 3.50 GHz	16950
+
+
+195 Intel Core i7 9700 9700 
+Intel Core i7 9700 Desktop 9th Gen Processor 8 Cores up to 4.7 GHz LGA1151 Intel® UHD Graphics 630	34000
+Intel Core i7-9700 Coffee Lake 8-Core 3.0 GHz (4.7 GHz Turbo) Processor BX80684I79700	29300
+
+
+196 Intel Core i5 3320M 3320 M
+
+
+197 Intel Core i7 7820HQ 7820 HQ
+
+
+198 Intel Core i5 8259U 8259 U
+
+
+199 Intel Core i7 6820HK 6820 HK
+
+
+200 AMD A8 7410 7410 
+
+
+201 AMD A12 9720P 9720 P
+
+
+202 Intel Core i7 4710HQ 4710 HQ
+
+
+203 Intel Core i7 3632QM 3632 QM
+
+
+204 Intel Core i7 2630QM 2630 QM
+
+
+205 Intel Xeon X5470 5470 X
+
+
+206 Intel Core i5 6300U 6300 U
+
+
+207 Intel Core i7 870 870 
+
+
+208 Intel Core i5 2450M 2450 M
+
+
+209 Intel Core i5 2410M 2410 M
+
+
+210 Intel Core i5 3230M 3230 M
+
+
+211 Intel Core i5 650 650 
+Intel® Core™ i5-650 Processor (1st Generation Required H55 Motherboard)	1650
+Intel Core i5-650 BX80616I5650 With Processor Speed 3.20 GHz 4 MB Cache Socket Processor	3200
+The620Guy Intel Core i5-650 3.2GHz 3.20GHz 4 m Socket 1156 Clarkdale CPU Processor	14049
+
+
+212 AMD A10 7890K 7890 K
+
+
+213 Intel Core i9 7920X 7920 X
+Intel Core i9-7920X Processor BX80673I97920X	95250
+Intel – Core I9-7920X Processor Bx80673I97920X	87000
+
+
+214 Intel Core i5 8600 8600 
+Intel Core i5-8600 Coffee Lake 6-Core 3.1 GHz Desktop Processor	20650
+Intel Core i5-8600 3.1 GHz Six-Core LGA 1151 Processor (Retail)	32375
+
+
+215 Intel Core i7 9700KF 9700 KF
+Intel Core i7-9700KF Coffee Lake 8-Core 3.6 GHz 9th Gen Desktop Processor Without Graphics BX80684I79700KF	29400
+
+
+216 Intel Core i7 3720QM 3720 QM
+
+
+217 Intel Core i5 6200U 6200 U
+
+
+218 Intel Core i5 4300U 4300 U
+
+
+219 Intel Core i7 4720HQ 4720 HQ
+
+
+220 Intel Core i7 3520M 3520 M
+
+
+221 AMD A8 6600K 6600 K
+
+
+222 Intel Core i3 2350M 2350 M
+
+
+223 Intel Pentium N4200 4200 N
+
+
+224 Intel Xeon E3 1505M 1505 M
+
+
+225 Intel Core i5 7300U 7300 U
+
+
+226 Intel Xeon W3690 3690 W
+
+
+227 Intel Core i7 8559U 8559 U
+
+
+228 Intel Core i7 4810MQ 4810 MQ
+Intel Core i7-4810MQ 2.8 GHz Processor	55195
+
+
+229 Intel Core2 Quad Q9500 9500 Q
+
+
+230 Intel Core i5 8350U 8350 U
+
+
+231 Intel Core i3 4130 4130 
+Intel Core i3-4130 FCLGA 1150 Processor	16815
+
+
+232 Intel Core i7 4702MQ 4702 MQ
+
+
+233 Intel Core i5 4210U 4210 U
+
+
+234 AMD Athlon X4 880K 880 K
+
+
+235 AMD A10 7860K 7860 K
+
+
+236 Intel Core i7 3960X 3960 X
+
+
+237 Intel Core2 Quad Q9300 9300 Q
+Intel Core 2 Quad Q9300 SLAMX SLAWE 2.5GHz 6MB CPU Processor LGA775	6419
+
+
+238 Intel Core2 Quad Q8400 8400 Q
+
+
+239 Intel Core i5 3210M 3210 M
+
+
+240 Intel Core i5 3450 3450 
+Intel Core i5-3450 SR0PF Socket H2 LGA1155 Desktop CPU Processor 6MB 3.1GHz 5GT/s	22719
+
+
+241 Intel Pentium Gold G5600 5600 G
+Intel Pentium G5600 3.9 GHz Dual-Core LGA 1151 Processor (Retail)	12900
+
+
+242 Intel Core i9 9900X 9900 X
+Intel Core i9-9900X X-Series Processor 10 Cores up to 4.4GHz Turbo Unlocked LGA2066 X299 Series 165W Processor	49950
+Intel Core i9-9900X Skylake X 10-Core 3.5 GHz (4.4 GHz Turbo) LGA 2066 Desktop Processor BX80673I99900X	46500
+
+
+243 Intel Core2 Duo E8500 8500 E
+
+
+244 Intel Core i7 3740QM 3740 QM
+
+
+245 Intel Core i7 6900K 6900 K
+Lexar Intel Core i7 6900K Processor	90999
+
+
+246 Intel Xeon E3 1230 1230 
+
+
+247 Intel Celeron G3930 3930 G
+Intel Celeron G3930 2.9 GHz Dual-Core LGA 1151 Processor	6280
+
+
+248 AMD A10 6700 6700 
+
+
+249 Intel Pentium G630 630 G
+
+
+250 Intel Core i7 2620M 2620 M
+
+
+251 Intel Core i3 2100 2100 
+
+
+252 Intel Core i5 4200H 4200 H
+
+
+253 Intel Core i5 4300M 4300 M
+
+
+254 Intel Core i3 6100U 6100 U
+
+
+255 Intel Celeron N3450 3450 N
+
+
+256 Intel Core i5 4210M 4210 M
+
+
+257 Intel Core i3 5005U 5005 U
+
+
+258 Intel Xeon E5 1650 1650 
+Intel Xeon E5-1650 v4 3.6 GHz Six-Core LGA 2011 Processor	75790
+
+
+259 Intel Core i5 2320 2320 
+
+
+260 Intel Core i5 5200U 5200 U
+
+
+261 Intel Core i3 7130U 7130 U
+
+
+262 Intel Core i5 9300H 9300 H
+
+
+263 Intel Core i5 5300U 5300 U
+
+
+264 Intel Core i7 3612QM 3612 QM
+
+
+265 Intel Core i3 4330 4330 
+
+
+266 Intel Core i3 4150 4150 
+Intel i3 4150 (LGA 1150)	5760
+Intel – I3 4150 (Lga 1150) Processor	8500
+
+
+267 AMD FX 8370E 8370 E
+
+
+268 Intel Core i7 4710MQ 4710 MQ
+
+
+269 AMD FX 4100 4100 
+
+
+270 AMD Ryzen TR 3970X 3970 X
+AMD Ryzen Threadripper 3970X Processor with 32 Cores 64 Threads 144MB Cache Max Boost Clock of 4.5Ghz and Support for x16 PCIe 4.0	224000
+Amd Ryzen Threadripper 3970X 3nd Generation Desktop Processor - (32 Core, Up To 4.5 GHz, TRX4 Socket, 147MB Cache) 	172999
+Amd Ryzen Threadripper 3970X	178000
+AMD 3rd Gen Ryzen Threadripper 3970X Desktop Processor	178987
+
+
+271 Intel Core2 Quad Q8200 8200 Q
+Intel Core 2 Quad Processor Q8200 2.33GHz 1333MHz 4MB LGA775 CPU, OEM	1099
+
+
+272 Intel Core i3 4370 4370 
+
+
+273 Intel Pentium G4520 4520 G
+
+
+274 Intel Core i3 6320 6320 
+
+
+275 Intel Core i5 4440 4440 
+Intel Core i5 Processor i5?4440 3.1GHz 5.0GT/s 6MB LGA 1150 CPU	12499
+
+
+276 Intel Core2 Quad Q8300 8300 Q
+
+
+277 Intel Core i9 9900KS 9900 KS
+
+
+278 Intel Core i7 3820 3820 
+
+
+279 Intel Core i3 8300 8300 
+
+
+280 Intel Core m3 6Y30 630 Y
+
+
+281 Intel Core2 Quad Q6700 6700 Q
+
+
+282 Intel Core i7 8650U 8650 U
+
+
+283 Intel Core2 Quad Q9450 9450 Q
+
+
+284 Intel Xeon W3550 3550 W
+
+
+285 Intel Core i3 7100U 7100 U
+
+
+286 Intel Xeon E5620 5620 E
+Intel Xeon E5620 Processor 2.4 GHz 12 MB Cache Socket LGA1366	3456
+
+
+287 Intel Xeon W3565 3565 W
+
+
+288 AMD A8 7650K 7650 K
+
+
+289 Intel Core i7 3840QM 3840 QM
+
+
+290 AMD A8 9600 9600 
+
+
+291 Intel Core i9 9880H 9880 H
+
+
+292 AMD A6 5200 5200 
+
+
+293 Intel Core i5 8265U 8265 U
+
+
+294 Intel Core i3 4030U 4030 U
+
+
+295 Intel Core i7 1065G7 10657 G
+
+
+296 AMD A10 5700 5700 
+
+
+297 Intel Xeon E3 1231 1231 
+
+
+298 AMD Athlon X4 845 845 
+
+
+299 Intel Core i3 3110M 3110 M
+
+
+300 Intel Core i7 860 860 
+Intel® Core™ i7-860 Processor 8M Cache, 2.80 GHz	5890
+
+
+301 Intel Core i5 3470S 3470 S
+Intel Core i5-3470S Quad-Core Processor 2.9 Ghz 6 MB Cache LGA 1155 - BX80637I53470S	4000
+
+
+302 Intel Pentium G3240 3240 G
+Intel Pentium Processor G3240 (3M Cache, 3.10 GHz) BX80646G3240	4490
+
+
+303 Intel Xeon W3680 3680 W
+
+
+304 Intel Xeon E3 1230 1230 
+
+
+305 Intel Core i7 4800MQ 4800 MQ
+
+
+306 Intel Core i3 540 540 
+
+
+307 Intel Xeon E5 1650 1650 
+Intel Xeon E5-1650 v4 3.6 GHz Six-Core LGA 2011 Processor	75790
+
+
+308 Intel Celeron G1840 1840 G
+Intel Celeron G1840 Processor - BX80646G1840	5799
+
+
+309 Intel Xeon E5 2690 2690 
+Intel Xeon E5-2690 v4 2.6 GHz Fourteen-Core LGA 2011 Processor	267985
+
+
+310 Intel Xeon E3 1240 1240 
+
+
+311 Intel Core i3 7300 7300 
+Intel Core i3-7300 4.0 GHz Dual-Core LGA 1151 Processor	28310
+
+
+312 Intel Xeon E5 1620 1620 
+Intel Xeon E5 Quad Core Processor 3.5 4 LGA 2011 BX80644E51620V3	31999
+
+
+313 Intel Core i5 3350P 3350 P
+
+
+314 Intel Core i5 M 560 560 
+
+
+315 Intel Core i3 3217U 3217 U
+
+
+316 Intel Core i7 4600U 4600 U
+
+
+317 Intel Core i5 660 660 
+
+
+318 AMD A8 5600K 5600 K
+
+
+319 Intel Core i5 2300 2300 
+
+
+320 Intel Xeon X5660 5660 X
+
+
+321 Intel Core i5 2540M 2540 M
+
+
+322 AMD A12 9800 9800 
+
+
+323 AMD Phenom II X4 945 945 
+
+
+324 AMD A9 9420 9420 
+
+
+325 AMD A8 6410 6410 
+
+
+326 Intel Core i5 3380M 3380 M
+
+
+327 Intel Xeon E5440 5440 E
+Intel Xeon E5440 Quad Core Processor 12M Cache, 2.83 GHz, 1333 MHz FSB, Socket LGA771	2350
+
+
+328 Intel Pentium G2030 2030 G
+Intel Pentium Dual-Core Processor G2030 3.0GHz 3MB LGA 1155 CPU	1599
+
+
+329 Intel Celeron N4000 4000 N
+
+
+330 Intel Core i7 5600U 5600 U
+
+
+331 AMD A10 9620P 9620 P
+
+
+332 Intel Pentium E5700 5700 E
+
+
+333 Intel Xeon E3 1270 1270 
+Intel Xeon E3-1270 v5 3.6 GHz Quad-Core LGA 1151 Processor	45555
+
+
+334 Intel Pentium G3260 3260 G
+Intel Pentium Dual Core G3260 PC1150 FBA_BX80646G3260 Processor	6000
+
+
+335 AMD A9 9425 9425 
+
+
+336 Intel Pentium Silver J5005 5005 J
+
+
+337 AMD A10 9700 9700 
+
+
+338 AMD A6 9500 9500 
+
+
+339 Intel Xeon E3 1220 1220 
+Intel Chip Processor 3.1 4 BX80646E31220V3	18585
+
+
+340 Intel Core i7 4500U 4500 U
+
+
+341 Intel Core i7 4510U 4510 U
+
+
+342 AMD A12 9700P 9700 P
+
+
+343 Intel Core i9 9980HK 9980 HK
+
+
+344 Intel Core m3 7Y30 730 Y
+
+
+345 Intel Core i7 2640M 2640 M
+
+
+346 Intel Core i5 1035G1 10351 G
+
+
+347 Intel Core2 Duo E8400 8400 E
+Intel Core2 Duo E8400 Processor (Tray)	449
+BCR Intel 3.0 GHz Core 2 Duo Processor E8400	599
+Intel Core 2 Duo E8400 3GHz Desktop Processor	490
+
+
+348 Intel Core i5 2430M 2430 M
+
+
+349 Intel Core i7 4770S 4770 S
+Intel Core i7-4770S Quad-Core Desktop Processor 3.1 GHZ 8 MB Cache- BX80646I74770S	67605
+
+
+350 Intel Core i3 6300 6300 
+Intel Boxed Core i3-6300 Dual Core Processor 3.8GHz LGA1151 BX80662I36300	14999
+
+
+351 AMD FX 6350 6350 
+AMD FX-6350 Hexa-core (6 Core) 3.90 GHz Processor Socket AM3+	22830
+
+
+352 Intel Core i7 4960X 4960 X
+
+
+353 Intel Core i9 7940X 7940 X
+Intel Core Processor Set	155699
+Intel – Core I9 7940X Processor	99000
+Intel Core i9-7940X X-Series 3.1 GHz 14-Core LGA 2066 Processor (OEM)	183725
+
+
+354 Intel Core i5 8400T 8400 T
+
+
+355 Intel Core i7 4900MQ 4900 MQ
+
+
+356 Intel Core2 Duo T9900 9900 T
+
+
+357 Intel Core i7 3540M 3540 M
+
+
+358 Intel Core i7 960 960 
+
+
+359 AMD FX 4350 4350 
+
+
+360 Intel Core i7 3940XM 3940 XM
+
+
+361 AMD Athlon II X4 640 640 
+AMD Athlon II X4 640 Processor (ADX640WFGMBOX)	46515
+AMD Athlon II X4 640 3.0GHz Quad-Core Desktop CPU Processor ADX640WFK42GM Socket AM3 2MB 95W	15155
+AMD Athlon II X4 Quad-Core Processor 640 (3.0GHz) AM3, OEM	16510
+
+
+362 Intel Core i7 930 930 
+
+
+363 Intel Core i5 4590S 4590 S
+
+
+364 Intel Core i5 3340 3340 
+Intel Core i5-3340 3.10 GHz Quad Core LGA1155 Socket Processor (Blue)	19299
+
+
+365 Intel Xeon X5450 5450 X
+
+
+366 Intel Celeron G3900 3900 G
+Intel Celeron G3900 Processor	9517
+Intel Celeron G3900 Skylake Dual-Core 2.8 GHz Processor BX80662G3900	2600
+
+
+367 Intel Xeon X5570 5570 X
+
+
+368 Intel Xeon E5430 5430 E
+
+
+369 AMD Phenom II X4 980 980 
+
+
+370 Intel Core i7 Q 740 740 
+
+
+371 Intel Core i7 Q 720 720 
+
+
+372 AMD Phenom II X4 960T 960 T
+
+
+373 Intel Core i7 5700HQ 5700 HQ
+
+
+374 AMD Athlon II X2 250 (2013 D.Ri)  D.Ri)
+
+
+375 Intel Core i3 3120M 3120 M
+
+
+376 Intel Core i5 4200M 4200 M
+
+
+377 Intel Pentium N3710 3710 N
+
+
+378 AMD Athlon II X4 760K (2013 D.Ri)  D.Ri)
+
+
+379 Intel Core i3 8100T 8100 T
+
+
+380 Intel Pentium G2020 2020 G
+Tiny Deal Intel Pentium Processor G2020 2.90 m Cache 3.00GHz Dual Core with Fan for PC Computer	3950
+Intel Pentium Dual Core G2020 2.9GHz LGA 1155 55W Intel HD Graphics	3999
+
+
+381 AMD A6 9220 9220 
+
+
+382 Intel Xeon X3450 3450 X
+
+
+383 Intel Core i3 4000M 4000 M
+
+
+384 Intel Pentium E5800 5800 E
+
+
+385 Intel Core i7 X 980 980 
+
+
+386 Intel Xeon X3430 3430 X
+
+
+387 Intel Core2 Duo E4600 4600 E
+
+
+388 Intel Core i7 8809G 8809 G
+
+
+389 Intel Core i7 5500U 5500 U
+
+
+390 Intel Celeron J3455 3455 J
+
+
+391 Intel Xeon E3 1270 1270 
+Intel Xeon E3-1270 v5 3.6 GHz Quad-Core LGA 1151 Processor	45555
+
+
+392 AMD Phenom II X4 925 925 
+
+
+393 AMD Athlon 64 X2 Dual Core 5200+ 5200 +
+
+
+394 Intel Core i5 8400H 8400 H
+
+
+395 AMD Phenom II X4 B55 55 B
+
+
+396 AMD Athlon II X4 630 630 
+
+
+397 AMD Athlon 5350 5350 
+
+
+398 AMD A8 3870 3870 
+
+
+399 Intel Core i7 6820HQ 6820 HQ
+
+
+400 Intel Core i7 X 990 990 
+
+
+401 AMD Athlon II X2 270 270 
+
+
+402 AMD Phenom II X2 555 555 
+
+
+403 Intel Core i5 5257U 5257 U
+
+
+404 Intel Core i3 2130 2130 
+
+
+405 Intel Pentium Gold 4415Y 4415 Y
+
+
+406 Intel Core i7 7600U 7600 U
+
+
+407 Intel Core i3 2370M 2370 M
+
+
+408 Intel Core2 Extreme X9770 9770 X
+
+
+409 Intel Core i7 10510U 10510 U
+
+
+410 Intel Core i7 4750HQ 4750 HQ
+
+
+411 Intel Celeron N3060 3060 N
+
+
+412 Intel Xeon E5 1620 1620 
+Intel Xeon E5 Quad Core Processor 3.5 4 LGA 2011 BX80644E51620V3	31999
+
+
+413 AMD FX 6200 6200 
+
+
+414 Intel Core i7 4910MQ 4910 MQ
+
+
+415 Intel Core i5 4570S 4570 S
+
+
+416 Intel Core i3 4350 4350 
+
+
+417 Intel Core i7 5775C 5775 C
+
+
+418 Intel Pentium G3460 3460 G
+
+
+419 Intel Core i7 8700T 8700 T
+
+
+420 Intel Pentium Gold G5500 5500 G
+Intel Pentiuim Gold G5500 Processor	29169
+
+
+421 Intel Core i9 9900 9900 
+Intel Core i9-9900 3.1 GHz Eight-Core LGA 1151 Processor (Boxed)	57520
+
+
+422 AMD A6 3670 3670 
+
+
+423 Intel Xeon W3520 3520 W
+
+
+424 Intel Xeon E3 1245 1245 
+Intel Xeon E3-1245V3 Haswell 3.4GHz 8MB L3 Cache LGA 1150 84W Quad-Core Server Processor BX80646E31245V3	34499
+Intel Xeon E3-1245 Processors BX80677E31245V6	33250
+Lexar Intel Xeon E3 E3 1245 V5 Processor	58272
+
+
+425 Intel Core i7 3770S 3770 S
+
+
+426 Intel Core i5 2310 2310 
+
+
+427 Intel Xeon E3 1220 1220 
+Intel Chip Processor 3.1 4 BX80646E31220V3	18585
+
+
+428 Intel Core2 Quad Q9505 9505 Q
+
+
+429 Intel Xeon W3530 3530 W
+
+
+430 Intel Core i5 4430 4430 
+Intel Core i5-4430 3.0 GHz Processor	50130
+
+
+431 Intel Core i3 550 550 
+Intel Core 2 Quad Q9550 2.83 GHz 1333MHz 12 MB Quad-Core CPU Processor SLB8V SLAWQ LGA 775	14550
+
+
+432 AMD Athlon 3000G 3000 G
+
+
+433 AMD Athlon II X2 240 240 
+E2500N Amd E1 2500 Dual Core Apu +Radeon Hd 8240 Mini Itx	3950
+
+
+434 Intel Core i3 3250 3250 
+
+
+435 Intel Xeon E3 1241 1241 
+
+
+436 Intel Core i7 9700F 9700 F
+Intel Core i7-9700F Desktop Processor 8 Core Up to 4.7 GHz Without Processor Graphics LGA1151 300 Series 65W	32599
+
+
+437 Intel Xeon E5 2660 2660 
+Intel Xeon E5-2660 v4 2.0 GHz Fourteen-Core LGA 2011 Processor	188330
+
+
+438 Intel Core i5 3340M 3340 M
+
+
+439 Intel Pentium E5400 5400 E
+
+
+440 Intel Xeon E7  4870 4870 
+
+
+441 Intel Pentium E6300 6300 E
+
+
+442 Intel Xeon E3 1226 1226 
+
+
+443 Intel Core i5 M 430 430 
+
+
+444 Intel Xeon X5560 5560 X
+
+
+445 Intel Pentium E5500 5500 E
+
+
+446 Intel Celeron G530 530 G
+Intel Celeron G530T SR05K Desktop CPU Processor LGA1155 2M 2.0GHz 5GT/s	1099
+
+
+447 Intel Core i5 9600 9600 
+
+
+448 AMD Phenom II X3 720 720 
+
+
+449 AMD C 50 50 
+
+
+450 AMD A4 5300 5300 
+
+
+451 AMD A6 3400M 3400 M
+
+
+452 AMD A10 9700E 9700 E
+
+
+453 Intel Xeon E5420 5420 E
+
+
+454 AMD Phenom II X4 B45 45 B
+
+
+455 Intel Celeron D 3.06GHz 306 .GHz
+
+
+456 Intel Core i7 4610M 4610 M
+
+
+457 AMD A10 4600M 4600 M
+
+
+458 Intel Core i7 3615QM 3615 QM
+
+
+459 Intel Core i7 3687U 3687 U
+
+
+460 AMD A6 3650 3650 
+
+
+461 Intel Core i7 880 880 
+
+
+462 Intel Core i5 4310U 4310 U
+
+
+463 Intel Core i5 7400T 7400 T
+Intel Core i5-7400T 2.4 GHz Quad-Core Processor	26385
+
+
+464 AMD FX 9830P 9830 P
+
+
+465 Intel Pentium 4415U 4415 U
+
+
+466 Intel Core2 Quad  Quad
+
+
+467 AMD A10 7800 7800 
+
+
+468 Intel Core i7 2760QM 2760 QM
+
+
+469 Intel Celeron N2830 2830 N
+
+
+470 AMD A4 4000 4000 
+
+
+471 AMD A6 7310 7310 
+
+
+472 Intel Core i7 3820QM 3820 QM
+
+
+473 Intel Core i7 980 980 
+
+
+474 Intel Core i7 5557U 5557 U
+
+
+475 Intel Celeron J1900 1900 J
+
+
+476 Intel Xeon E3 1275 1275 
+
+
+477 Intel Core i5 M 460 460 
+
+
+478 Intel Xeon E31270 31270 E
+
+
+479 AMD Athlon II X3 450 450 
+
+
+480 Intel Xeon E3 1240 1240 
+
+
+481 AMD A8 3850 3850 
+
+
+482 Intel Core i7 8705G 8705 G
+
+
+483 Intel Core i7 6920HQ 6920 HQ
+
+
+484 Intel Pentium B960 960 B
+
+
+485 Intel Core i7 4940MX 4940 MX
+
+
+486 Intel Core i7 7660U 7660 U
+
+
+487 Intel Xeon E3 1271 1271 
+
+
+488 AMD A6 5400K 5400 K
+
+
+489 Intel Xeon E3 1270 1270 
+Intel Xeon E3-1270 v5 3.6 GHz Quad-Core LGA 1151 Processor	45555
+
+
+490 Intel Pentium N3700 3700 N
+
+
+491 Intel Pentium 2020M 2020 M
+
+
+492 AMD Phenom II X6 1045T 1045 T
+
+
+493 AMD Athlon II X3 445 445 
+
+
+494 Intel Core i5 8279U 8279 U
+
+
+495 Intel Core i7 7700T 7700 T
+
+
+496 Intel Celeron N4100 4100 N
+
+
+497 Intel Core i5 10210U 10210 U
+
+
+498 Intel Pentium G620 620 G
+Intel Pentium G620Dual Core 2.6 GHz Intel HD Graphics Retail LGA 1155 Processor - BX80623G620	1499
+
+
+499 Intel Xeon E3 1245 1245 
+Intel Xeon E3-1245V3 Haswell 3.4GHz 8MB L3 Cache LGA 1150 84W Quad-Core Server Processor BX80646E31245V3	34499
+Intel Xeon E3-1245 Processors BX80677E31245V6	33250
+Lexar Intel Xeon E3 E3 1245 V5 Processor	58272
+
+
+500 Intel Core i5 1035G4 10354 G
+
+
+501 Intel Core i3 10110U 10110 U
+
+
+502 Intel Core i5 8500T 8500 T
+
+
+503 Intel Core i3 8145U 8145 U
+
+
+504 AMD A9 9430 9430 
+
+
+505 Intel Core i5 8365U 8365 U
+
+
+506 Intel Celeron J4005 4005 J
+
+
+507 AMD A8 5500 5500 
+
+
+508 Intel Xeon E5 2643 2643 
+Intel Xeon E5-2643 v4 3.4 GHz Six-Core LGA 2011-3 Processor	225640
+
+
+509 Intel Pentium G3250 3250 G
+Intel Pentium G3250 Dual-core (2 Core) 3.20 GHz Processor - Socket H3 LGA-1150Retail Pack BX80646G3250	4999
+
+
+510 Intel Xeon E3 1246 1246 
+
+
+511 AMD Phenom II X4 840 840 
+
+
+512 AMD A10 7700K 7700 K
+
+
+513 AMD Athlon II X4 870K 870 K
+
+
+514 AMD FX 8120 8120 
+
+
+515 AMD Ryzen TR 3960X 3960 X
+AMD Ryzen Threadripper 3960X Processor with 24 Cores 48 Threads 140MB Cache Max Boost Clock of 4.5Ghz and Support for x16 PCIe 4.0	150800
+Amd Ryzen Threadripper 3960X 3nd Generation Desktop Processor - (24 Core, Up To 4.5 GHz, TRX4 Socket, 142MB Cache) 	121999
+Amd Ryzen Threadripper 3960X	122500
+AMD 3rd Gen Ryzen Threadripper 3960X Desktop Processor	123910
+
+
+516 Intel Core i3 M 380 380 
+
+
+517 Intel Core i5 3360M 3360 M
+
+
+518 Intel Core2 Duo E7600 7600 E
+
+
+519 Intel Core i7 970 970 
+
+
+520 Intel Xeon E5 1650 1650 
+Intel Xeon E5-1650 v4 3.6 GHz Six-Core LGA 2011 Processor	75790
+
+
+521 Intel Celeron G1620 1620 G
+
+
+522 Intel Core2 Duo T9300 9300 T
+
+
+523 Intel Core2 Duo E7400 7400 E
+
+
+524 Intel Core i3 2330M 2330 M
+
+
+525 Intel Core i7 2860QM 2860 QM
+
+
+526 Intel Core i7 9800X 9800 X
+Intel Core i7-9800X X-Series Processor 8 Cores up to 4.4GHz Turbo Unlocked LGA2066 X299 Series 165W Processors (999AC3)	38500
+Intel Core I7-9800X X-Series Processor	35199
+
+
+527 Intel Celeron G1610 1610 G
+Intel Celeron G1610 2.60GHz LGA 1155 Processor BX80637G1610	8695
+
+
+528 Intel Core2 Duo E6750 6750 E
+
+
+529 Intel Core2 Duo E6550 6550 E
+
+
+530 Intel Xeon L5420 5420 L
+
+
+531 Intel Core2 Extreme X9100 9100 X
+
+
+532 Intel Core i9 9820X 9820 X
+Intel Core i9 9820X X-Series Processor 10 Cores up to 4.1GHz Turbo Unlocked LGA2066 X299 Series 165W Processor(Thermal Solution/Fan not Included in Box)	52550
+Intel Core i9-9820X Skylake X 10-Core 3.3 GHz (4.1 GHz Turbo) LGA 2066 165W Desktop Processor BX80673I99820X	44100
+
+
+533 Intel Core i3 7320 7320 
+Intel BX80677I37320 7th Gen Core Desktop Processors	25748
+Intel Core i3-7320 4.1 GHz Dual-Core LGA 1151 Processor	22215
+
+
+534 Intel Xeon E5 2670 2670 
+Intel Xeon E5-2670v2 2.50 GHz Processor	191655
+
+
+535 Intel Core i5 9500 9500 
+
+
+536 Intel Core i3 3225 3225 
+
+
+537 Intel Core i7 3970X 3970 X
+Intel Core i7 Extreme Edition i7-3970X 3.5GHz 5.0GT/s 15MB LGA2011 Processor without Fan, Retail BX80619I73970X	45599
+
+
+538 Intel Xeon E5 2620 2620 
+Intel Xeon E5-2620 V4 2.1 GHz LGA 2011-3 85W Server Processor	48890
+Intel Xeon E5-2620 v2 Six-Core Processor 2.1GHz 7.2GT/s 15MB LGA 2011 CPU BX80635E52620V2	9485
+Intel Xeon E5 E5-2620V4 Processor	36000
+Intel Xeon E5-2620 v4 2.1 GHz Eight-Core LGA 2011 Processor	50800
+
+
+539 Intel Xeon E3 1225 1225 
+Intel Xeon E3-1225 V6 Quad-Core Kaby Lake Processor 3.3GHz 8.0GT/s 8MB LGA 1151 CPU, OEM Model CM8067702871024	62749
+
+
+540 Intel Pentium D 3.73GHz 373 .GHz
+
+
+541 Intel Core i5 2405S 2405 S
+
+
+542 AMD Ryzen 7 2800H 2800 H
+
+
+543 AMD Phenom II X4 B60 60 B
+
+
+544 Intel Core i7 2675QM 2675 QM
+
+
+545 AMD Athlon II X4 631 631 
+
+
+546 AMD A12 9730P 9730 P
+
+
+547 Intel Core i7 3517U 3517 U
+
+
+548 AMD Phenom 9950 9950 
+AMD Phenom X4 9950 Black Edition 2.6GHz Quad-Core CPU Processor HD995ZXAJ4BGH Socket AM2+ 2MB Cache 125W	37809
+
+
+549 Intel Core M 5Y71 571 Y
+
+
+550 Intel Pentium G2010 2010 G
+INTEL Pentium Processor G2010 3M Cache, 2.80 GHz LGA1155, Dual Core and Ivy Bridge(BX80637G2010)	5699
+
+
+551 AMD Phenom 9750 9750 
+AMD Phenom X4 9750 2.4GHz Quad-Core CPU Processor HD9750WCJ4BGH Socket AM2 2MB Cache 95W	11235
+
+
+552 AMD Phenom II X2 550 550 
+
+
+553 Intel Pentium D 3.40GHz 340 .GHz
+
+
+554 Intel Core2 Duo T6600 6600 T
+
+
+555 Intel Celeron N2920 2920 N
+
+
+556 AMD Athlon II X2 220 220 
+AMD Athlon II X2 220 2.8GHz 2x512KB Socket AM3 Dual-Core CPU	6520
+
+
+557 AMD Phenom 9850 9850 
+
+
+558 Intel Core i7 6700T 6700 T
+
+
+559 Intel Core i7 4712HQ 4712 HQ
+
+
+560 Intel Core i7 3537U 3537 U
+
+
+561 Intel Core i3 2375M 2375 M
+
+
+562 AMD FX 6120 6120 
+
+
+563 AMD Phenom II X6 1035T 1035 T
+
+
+564 AMD Phenom II X2 560 560 
+
+
+565 AMD A8 7100 7100 
+
+
+566 AMD Athlon 64 X2 Dual Core 6000+ 6000 +
+AMD Athlon 64 X2 6000+ 3 GHz Dual-Core CPU Processor ADA6000IAA6CZ Socket AM2 2MB 89W	8490
+
+
+567 AMD A4 6210 APU R3 G  G
+
+
+568 AMD Phenom II X4 975 975 
+
+
+569 AMD A8 4500M 4500 M
+
+
+570 Intel Core i5 3475S 3475 S
+
+
+571 Intel Core i7 L 640 640 
+
+
+572 Intel Core i7 4558U 4558 U
+
+
+573 AMD Athlon II X3 440 440 
+
+
+574 Intel Xeon E3 1220 1220 
+Intel Chip Processor 3.1 4 BX80646E31220V3	18585
+
+
+575 AMD A6 3500 3500 
+
+
+576 AMD Phenom II X2 565 565 
+
+
+577 Intel Core i7 2720QM 2720 QM
+
+
+578 Intel Celeron N3160 3160 N
+
+
+579 AMD FX 9800P 9800 P
+
+
+580 Intel Celeron 1037U 1037 U
+
+
+581 Intel Core2 Duo E7200 7200 E
+Intel Core 2 Duo E7200 2.53GHz 1066MHz 3MB Socket 775 Dual-Core CPU	339
+
+
+582 Intel Pentium 4405U 4405 U
+
+
+583 AMD FX 8310 8310 
+
+
+584 Intel Pentium 4 3.06GHz 306 .GHz
+
+
+585 Intel Core M 5Y10c 510 Yc
+
+
+586 Intel Atom x5 Z8350 8350 Z
+
+
+587 Intel Xeon E3 1230 1230 
+
+
+588 Intel Core i5 3427U 3427 U
+
+
+589 Intel Pentium T4400 4400 T
+
+
+590 Intel Pentium B980 980 B
+
+
+591 Intel Core i3 4005U 4005 U
+
+
+592 Intel Core i7 7567U 7567 U
+
+
+593 AMD A4 4300M 4300 M
+
+
+594 Intel Core i5 2400S 2400 S
+Intel Core i5-2400S Quad-Core Processor 2.5 GHz 6 MB Cache LGA 1155 - BX80623I52400S	3350
+
+
+595 Intel Core i7 6600U 6600 U
+
+
+596 Intel Core i5 7Y54 754 Y
+
+
+597 AMD A8 3800 3800 
+
+
+598 Intel Core i5 M 480 480 
+
+
+599 Intel Core i7 3667U 3667 U
+
+
+600 Intel Xeon E5472 5472 E
+
+
+601 Intel Core i7 4600M 4600 M
+
+
+602 AMD A8 5550M 5550 M
+
+
+603 Intel Core i3 M 370 370 
+
+
+604 Intel Core i5 7260U 7260 U
+
+
+605 Intel Celeron N3350 3350 N
+
+
+606 AMD A6 7400K 7400 K
+
+
+607 AMD A4 6300 6300 
+
+
+608 AMD A6 3420M 3420 M
+
+
+609 AMD Athlon II X4 641 641 
+
+
+610 AMD Athlon 64 X2 Dual Core 4000+ 4000 +
+
+
+611 AMD Phenom II X4 B50 50 B
+
+
+612 Intel Xeon X5472 5472 X
+
+
+613 AMD Athlon II X2 B24 24 B
+
+
+614 AMD Athlon II X2 260 260 
+
+
+615 Intel Core i7 4702HQ 4702 HQ
+
+
+616 Intel Celeron 1007U 1007 U
+
+
+617 Intel Core i7 2635QM 2635 QM
+
+
+618 Intel Core i7 4650U 4650 U
+
+
+619 AMD A4 9120 9120 
+
+
+620 AMD A8 6500 6500 
+
+
+621 AMD E 450 450 
+
+
+622 Intel Core i3 2328M 2328 M
+
+
+623 AMD Athlon II X4 620 620 
+
+
+624 Intel Core i7 9850H 9850 H
+
+
+625 Intel Celeron J4105 4105 J
+
+
+626 Intel Pentium G860 860 G
+
+
+627 Intel Core i3 7100T 7100 T
+Intel Core i3-7100T 3.4 GHz Dual-Core LGA 1151 Processor	17450
+
+
+628 Intel Core i3 6098P 6098 P
+Intel Core i3-6098P BX80662I36098P Socket LGA 1151 Processor	12199
+
+
+629 AMD A12 9800E 9800 E
+
+
+630 Intel Core i7 4770HQ 4770 HQ
+
+
+631 AMD Athlon II X3 435 435 
+
+
+632 AMD A6 4400M 4400 M
+
+
+633 AMD Athlon II X4 635 635 
+
+
+634 Intel Core i5 1035G7 10357 G
+
+
+635 Intel Atom x5 Z8550 8550 Z
+
+
+636 Intel Core i3 M 330 330 
+
+
+637 AMD Athlon 64 3500+ 3500 +
+
+
+638 Intel Xeon E3 1240 1240 
+
+
+639 Intel Pentium M processor 1.73GHz 173 .GHz
+
+
+640 Intel Core i7 2960XM 2960 XM
+
+
+641 Intel Core2 Duo T8300 8300 T
+
+
+642 Intel Core i9 10920X 10920 X
+
+
+643 Intel Core i7 8665U 8665 U
+
+
+644 Intel Xeon E5405 5405 E
+
+
+645 Intel Core i3 8109U 8109 U
+
+
+646 Intel Core i3 4360 4360 
+
+
+647 Intel Core i7 4790S 4790 S
+
+
+648 AMD A10 7870K 7870 K
+
+
+649 Intel Pentium G3420 3420 G
+
+
+650 Intel Core i3 3210 3210 
+
+
+651 Intel Pentium G3440 3440 G
+
+
+652 Intel Core2 Duo E8300 8300 E
+
+
+653 Intel Core i7 4790T 4790 T
+
+
+654 Intel Core i5 2550K 2550 K
+
+
+655 Intel Core i5 4460S 4460 S
+
+
+656 Intel Core i7 975 975 
+
+
+657 Intel Core i5 M 520 520 
+
+
+658 Intel Pentium E6500 6500 E
+
+
+659 Intel Core i5 661 661 
+
+
+660 Intel Xeon E3 1225 1225 
+Intel Xeon E3-1225 V6 Quad-Core Kaby Lake Processor 3.3GHz 8.0GT/s 8MB LGA 1151 CPU, OEM Model CM8067702871024	62749
+
+
+661 Intel Xeon X3220 3220 X
+
+
+662 Intel Xeon E3 1245 1245 
+Intel Xeon E3-1245V3 Haswell 3.4GHz 8MB L3 Cache LGA 1150 84W Quad-Core Server Processor BX80646E31245V3	34499
+Intel Xeon E3-1245 Processors BX80677E31245V6	33250
+Lexar Intel Xeon E3 E3 1245 V5 Processor	58272
+
+
+663 Intel Core i7 965 965 
+
+
+664 Intel Core i5 680 680 
+
+
+665 Intel Xeon E31220 31220 E
+Intel Chip Processor 3.1 4 BX80646E31220V3	18585
+
+
+666 Intel Core2 Quad Q9000 9000 Q
+
+
+667 Intel Core2 Extreme X9650 9650 X
+
+
+668 Intel Core2 Duo T8100 8100 T
+
+
+669 AMD Athlon 64 X2 Dual Core 4800+ 4800 +
+
+
+670 Intel Core2 Duo E7300 7300 E
+
+
+671 Intel Pentium E6700 6700 E
+
+
+672 Intel Core2 Duo T9600 9600 T
+Intel Core 2 Duo T9600 2.8GHz 6MB Mobile CPU Processor Socket P 478-pin SLB47 SLG8N SLG9F	12601
+
+
+673 Intel Core2 Duo E4500 4500 E
+Intel Core 2 Duo E4500 CPU Processor- SLA95	11579
+
+
+674 AMD A6 6400K 6400 K
+
+
+675 AMD A4 3400 3400 
+
+
+676 Intel Pentium E5300 5300 E
+
+
+677 Intel Core2 Duo E6850 6850 E
+
+
+678 Intel Celeron E3400 3400 E
+
+
+679 Intel Core2 Duo T7700 7700 T
+
+
+680 Intel Core2 Duo T7300 7300 T
+
+
+681 Intel Core i3 9100 9100 
+Intel Core i3-9100 Coffee Lake 4-Core 3.6 GHz Processor BX80684I39100	10400
+Intel Core i3-9100 Processor (OEM)	17935
+
+
+682 Intel Core i5 5675C 5675 C
+
+
+683 Intel Pentium G2130 2130 G
+
+
+684 Intel Xeon E5 2630 2630 
+Intel Xeon E5-2630 V4 2.2 GHz LGA 2011-3 85W Server Processor	67490
+Lexar Intel Xeon E5 E5-2630V4 Processor	71490
+Intel Xeon E5-2630 v4 2.2 GHz Ten-Core LGA 2011 Processor	82635
+
+
+685 Intel Xeon E5 2620 2620 
+Intel Xeon E5-2620 V4 2.1 GHz LGA 2011-3 85W Server Processor	48890
+Intel Xeon E5-2620 v2 Six-Core Processor 2.1GHz 7.2GT/s 15MB LGA 2011 CPU BX80635E52620V2	9485
+Intel Xeon E5 E5-2620V4 Processor	36000
+Intel Xeon E5-2620 v4 2.1 GHz Eight-Core LGA 2011 Processor	50800
+
+
+686 Intel Core2 Duo E7500 7500 E
+Intel Core 2 Duo E7500 Processor 2.93 GHz 3 MB Cache Socket LGA775	474
+Intel Core 2 Duo E7500 Processor 2.93 GHz 3 MB Cache Socket LGA775	474
+Intel Core 2 Duo E7500 2.93GHz 1066MHz 3MB Socket 775 Dual-Core CPU	21069
+
+
+687 Intel Celeron 2.40GHz 240 .GHz
+
+
+688 AMD Athlon XP 2800+ 2800 +
+
+
+689 Intel Pentium 4 1.70GHz 170 .GHz
+
+
+690 AMD Z 60 60 
+
+
+691 Intel Xeon E5310 5310 E
+
+
+692 Intel Core2 Duo P9300 9300 P
+
+
+693 Intel Core i7 X 000 000 
+
+
+694 AMD Athlon 2650e 2650 e
+
+
+695 AMD A6 7470K 7470 K
+
+
+696 Intel Xeon E5 2680 2680 
+Intel Xeon E5-2680 v3 2.5 GHz Processor	63400
+Intel Xeon E5-2680 v4 2.4 GHz Fourteen-Core LGA 2011 Processor	223340
+
+
+697 Intel Core2 Duo L7100 7100 L
+
+
+698 Intel Core i3 7300T 7300 T
+
+
+699 Intel Core2 Duo T9500 9500 T
+
+
+700 Intel Xeon E5320 5320 E
+
+
+701 Intel Core m7 6Y75 675 Y
+
+
+702 AMD Athlon 7750 7750 
+
+
+703 Intel Core2 Duo T5870 5870 T
+
+
+704 AMD Athlon II X3 455 455 
+
+
+705 AMD Phenom II X6 1075T 1075 T
+
+
+706 Intel Core i7 5850HQ 5850 HQ
+
+
+707 Intel Celeron N3150 3150 N
+
+
+708 AMD Phenom II X4 940 940 
+
+
+709 AMD Phenom 8650 8650 
+
+
+710 AMD Athlon X2 Dual Core BE 2400 2400 
+
+
+711 Intel Xeon E5 2630 2630 
+Intel Xeon E5-2630 V4 2.2 GHz LGA 2011-3 85W Server Processor	67490
+Lexar Intel Xeon E5 E5-2630V4 Processor	71490
+Intel Xeon E5-2630 v4 2.2 GHz Ten-Core LGA 2011 Processor	82635
+
+
+712 Intel Atom N2600 2600 N
+
+
+713 AMD A4 3330MX 3330 MX
+
+
+714 Intel Xeon E5335 5335 E
+
+
+715 Intel Core i5 M 540 540 
+
+
+716 AMD Phenom II X4 910e 910 e
+
+
+717 AMD A4 7210 7210 
+
+
+718 Intel Core i3 2348M 2348 M
+
+
+719 Intel Core i3 4010U 4010 U
+
+
+720 AMD A6 9500E 9500 E
+
+
+721 AMD FX 4170 4170 
+
+
+722 Intel Core m5 6Y54 654 Y
+
+
+723 Intel Core M 5Y51 551 Y
+
+
+724 Intel Pentium T4500 4500 T
+
+
+725 AMD Phenom II X3 710 710 
+
+
+726 Intel Core i3 7167U 7167 U
+
+
+727 AMD A10 7300 7300 
+
+
+728 AMD A10 5745M 5745 M
+
+
+729 Intel Pentium 2127U 2127 U
+
+
+730 Intel Core i5 5287U 5287 U
+
+
+731 Intel Pentium N3540 3540 N
+
+
+732 AMD Phenom II N930 930 N
+
+
+733 AMD Athlon II P340 340 P
+
+
+734 AMD A4 4355M 4355 M
+
+
+735 AMD E2 1800 1800 
+
+
+736 AMD Athlon II X4 555 555 
+
+
+737 AMD Phenom II X4 20 20 
+
+
+738 Intel Core2 Duo P8600 8600 P
+
+
+739 Intel Pentium J2900 2900 J
+
+
+740 Intel Core i5 2435M 2435 M
+
+
+741 Intel Core i7 Q 820 820 
+
+
+742 Intel Core2 Duo P8800 8800 P
+
+
+743 Intel Core i7 8706G 8706 G
+
+
+744 Intel Core i5 4258U 4258 U
+
+
+745 AMD A9 9400 9400 
+
+
+746 AMD A8 5545M 5545 M
+
+
+747 Intel Pentium B950 950 B
+
+
+748 Intel Xeon L5520 5520 L
+
+
+749 Intel Core i7 4960HQ 4960 HQ
+
+
+750 Intel Core2 Duo T5800 5800 T
+
+
+751 Intel Pentium G640 640 G
+Intel Pentium Dual-Core G640 2.8 GHz 3 MB 2 Cores 1155 Processor	1499
+
+
+752 Intel Pentium N3520 3520 N
+
+
+753 Intel Core2 Duo T6570 6570 T
+
+
+754 Intel Core i7 6650U 6650 U
+
+
+755 Intel Pentium Dual E2160 2160 E
+
+
+756 Intel Core i5 K 655 655 
+
+
+757 AMD Phenom II X4 850 850 
+
+
+758 Intel Xeon E3 1230 1230 
+
+
+759 Intel Celeron 1000M 1000 M
+
+
+760 Intel Core i7 3920XM 3920 XM
+
+
+761 Intel Xeon E5530 5530 E
+
+
+762 Intel Pentium B970 970 B
+
+
+763 Intel Core i5 4300Y 4300 Y
+
+
+764 Intel Xeon E5 1603 1603 
+
+
+765 Intel Core i7 7Y75 775 Y
+
+
+766 AMD Athlon II X3 460 460 
+
+
+767 Intel Core i7 5550U 5550 U
+
+
+768 AMD A8 7670K 7670 K
+
+
+769 Intel Xeon E5520 5520 E
+
+
+770 Intel Core i7 M 640 640 
+
+
+771 Intel Xeon E31230 31230 E
+
+
+772 Intel Xeon E5540 5540 E
+
+
+773 Intel Core i7 2820QM 2820 QM
+
+
+774 AMD Phenom II X2 545 545 
+
+
+775 Intel Core i5 7500T 7500 T
+
+
+776 AMD Phenom II X4 905e 905 e
+
+
+777 AMD E2 9000 9000 
+
+
+778 AMD Sempron 145 145 
+
+
+779 Intel Atom 330 330 
+
+
+780 Intel Core i3 2365M 2365 M
+
+
+781 AMD Turion X2 Dual Core Mobile RM 70 70 
+
+
+782 AMD Athlon II X4 740K 740 K
+
+
+783 Intel Core i5 4570R 4570 R
+
+
+784 AMD Athlon 64 X2 Dual Core 4200+ 4200 +
+AMD Athlon 64 X2 Dual-Core 4200+ 2.2 GHz Processor with 65-Watt Power Socket AM2	30230
+
+
+785 AMD A10 5800B 5800 B
+
+
+786 Intel Core i5 M 450 450 
+
+
+787 Intel Pentium G3450 3450 G
+
+
+788 AMD Athlon II M300 300 M
+
+
+789 Intel Core2 Duo T9800 9800 T
+
+
+790 AMD A10 5757M 5757 M
+
+
+791 Intel Core i7 4930MX 4930 MX
+
+
+792 Intel Core M 5Y31 531 Y
+
+
+793 Intel Core2 Duo T6500 6500 T
+
+
+794 AMD FX 7600P 7600 P
+
+
+795 Intel Core2 Duo P9700 9700 P
+
+
+796 Intel Core i5 3330S 3330 S
+
+
+797 AMD Sempron 140 140 
+
+
+798 Intel Core i5 2537M 2537 M
+
+
+799 AMD Phenom II X4 810 810 
+
+
+800 Intel Core i7 7560U 7560 U
+
+
+801 AMD Athlon 64 X2 Dual Core 6400+ 6400 +
+
+
+802 AMD Athlon 64 4000+ 4000 +
+
+
+803 Intel Xeon X5667 5667 X
+
+
+804 AMD Athlon II X4 645 645 
+
+
+805 AMD E2 9000e 9000 e
+
+
+806 AMD E 350 350 
+
+
+807 AMD A6 3620 3620 
+
+
+808 AMD Athlon II X2 245 245 
+
+
+809 Intel Celeron J3355 3355 J
+
+
+810 AMD E2 3000M 3000 M
+
+
+811 Intel Xeon X3460 3460 X
+
+
+812 Intel Xeon E31225 31225 E
+
+
+813 AMD Phenom II X4 840T 840 T
+
+
+814 AMD A6 9200 9200 
+
+
+815 AMD Phenom II X4 B40 40 B
+
+
+816 Intel Pentium P6100 6100 P
+
+
+817 Intel Xeon E5 2670 2670 
+Intel Xeon E5-2670v2 2.50 GHz Processor	191655
+
+
+818 Intel Pentium 3805U 3805 U
+
+
+819 Intel Atom N270 270 N
+
+
+820 Intel Celeron 1005M 1005 M
+
+
+821 Intel Core i5 2415M 2415 M
+
+
+822 Intel Core2 Duo T6670 6670 T
+
+
+823 Intel Pentium J4205 4205 J
+
+
+824 AMD Athlon 64 X2 Dual Core 5400+ 5400 +
+
+
+825 Intel Pentium B940 940 B
+
+
+826 AMD Athlon II X4 651 651 
+
+
+827 Intel Core i7 4850HQ 4850 HQ
+
+
+828 Intel Core2 Duo P7550 7550 P
+
+
+829 Intel Core i3 M 390 390 
+
+
+830 AMD Phenom 9650 9650 
+
+
+831 Intel T2080 2080 T
+
+
+832 AMD A10 7400P 7400 P
+
+
+833 Intel Core i5 2500S 2500 S
+INTEL CORE I5-2500S 2.7GHZ-3.7GHZ 6MB 65W LGA1155 Quad CORE CPU Processor SR009	3500
+
+
+834 AMD Athlon II X2 265 265 
+
+
+835 AMD Phenom 9600 9600 
+
+
+836 Intel Core i3 5015U 5015 U
+
+
+837 AMD Ryzen 5 2600H 2600 H
+
+
+838 Intel Pentium G4560T 4560 GT
+
+
+839 Intel Atom x5 Z8300 8300 Z
+
+
+840 Intel Core i5 3437U 3437 U
+
+
+841 Intel Core i9 10940X 10940 X
+
+
+842 Intel Core i5 3337U 3337 U
+
+
+843 AMD Athlon 64 X2 Dual Core 5600+ 5600 +
+
+
+844 Intel Core i7 6567U 6567 U
+
+
+845 AMD FX 7500 7500 
+
+
+846 Intel Pentium N3530 3530 N
+
+
+847 Intel Celeron G540 540 G
+
+
+848 Intel Xeon E5462 5462 E
+
+
+849 Intel Core i3 2120T 2120 T
+
+
+850 Intel Core i7 L 620 620 
+
+
+851 Intel Atom N570 570 N
+
+
+852 Intel Core2 Duo P7350 7350 P
+
+
+853 AMD Phenom II X4 B65 65 B
+
+
+854 AMD Phenom 9550 9550 
+
+
+855 AMD Athlon X2 Dual Core QL 64 64 
+
+
+856 Intel Celeron B820 820 B
+
+
+857 AMD Athlon Dual Core 4450B 4450 B
+
+
+858 Intel Pentium 5405U 5405 U
+
+
+859 Intel Core i3 5010U 5010 U
+
+
+860 Intel Xeon E5 2687W 2687 W
+
+
+861 Intel Pentium P6200 6200 P
+
+
+862 Intel Celeron 1017U 1017 U
+
+
+863 AMD A8 7500 7500 
+
+
+864 Intel Pentium G870 870 G
+
+
+865 AMD Athlon 64 3800+ 3800 +
+ADA3800DAA5CD AMD Athlon 64 X2 Dual-Core 3800+ 2.0GHz Processor ADA3800DAA5CD	32079
+Amd Athlon 64 3800+ Processor Socket 939	28270
+
+
+866 Intel Pentium 967 967 
+
+
+867 Intel Core i7 3635QM 3635 QM
+
+
+868 AMD Athlon II X3 425 425 
+
+
+869 Intel Core i7 10710U 10710 U
+
+
+870 Intel Pentium Dual T3200 3200 T
+
+
+871 Intel Celeron 3205U 3205 U
+
+
+872 AMD Turion 64 X2 Mobile Technology TL 58 58 
+
+
+873 Intel Celeron G550 550 G
+
+
+874 Intel Core i9 10980XE 10980 XE
+
+
+875 AMD V120 120 V
+
+
+876 AMD Athlon 7850 7850 
+AMD A10-7850K Kaveri 4.0 GHz Socket FM2+ Desktop Processor	32280
+
+
+877 Intel Core i7 4770T 4770 T
+
+
+878 AMD A10 6790K 6790 K
+
+
+879 Intel Celeron G1820 1820 G
+
+
+880 Intel Core i5 4670S 4670 S
+
+
+881 Intel Celeron G1850 1850 G
+
+
+882 Intel Core i3 6300T 6300 T
+
+
+883 Intel Core i3 6100T 6100 T
+
+
+884 Intel Core i9 9920X 9920 X
+Intel Core i9-9920X Skylake X 12-Core 3.5 GHz (4.4 GHz Turbo) LGA 2066 Desktop Processor BX80673I99920X	54700
+
+
+885 AMD Phenom II X4 970 970 
+
+
+886 Intel Pentium Dual E2180 2180 E
+
+
+887 Intel Core2 Duo E4700 4700 E
+
+
+888 Intel Core i7 940 940 
+
+
+889 Intel Core i3 M 350 350 
+
+
+890 AMD A4 3300 3300 
+
+
+891 Intel Xeon E3 1275 1275 
+
+
+892 Intel Xeon E3110 3110 E
+
+
+893 Intel Core2 Extreme Q9300 9300 Q
+Intel Core 2 Quad Q9300 SLAMX SLAWE 2.5GHz 6MB CPU Processor LGA775	6419
+
+
+894 Intel Core i7 2600S 2600 S
+
+
+895 Intel Core i5 M 580 580 
+
+
+896 Intel Xeon L5639 5639 L
+
+
+897 Intel Celeron E3300 3300 E
+
+
+898 Intel Core2 T7400 7400 T
+
+
+899 AMD Athlon 64 3000+ 3000 +
+
+
+900 AMD A8 3500M 3500 M
+
+
+901 Intel Core i3 4130T 4130 T
+
+
+902 AMD A4 3300M 3300 M
+
+
+903 Intel Xeon W3505 3505 W
+
+
+904 Intel Xeon W3570 3570 W
+
+
+905 AMD Turion 64 Mobile Technology ML 32 32 
+
+
+906 Intel Core2 X6800 6800 X
+
+
+907 Intel Core2 Duo P9600 9600 P
+
+
+908 AMD Athlon XP 2600+ 2600 +
+
+
+909 Intel Pentium G850 850 G
+
+
+910 Intel Core2 6300 6300 
+
+
+911 Intel Core2 Duo T6400 6400 T
+
+
+912 AMD Athlon 64 X2 Dual Core 3800+ 3800 +
+ADA3800DAA5CD AMD Athlon 64 X2 Dual-Core 3800+ 2.0GHz Processor ADA3800DAA5CD	32079
+Amd Athlon 64 3800+ Processor Socket 939	28270
+
+
+913 AMD Athlon 64 X2 Dual Core 4400+ 4400 +
+
+
+914 Intel Core i3 2125 2125 
+
+
+915 Intel Core2 Duo T7250 7250 T
+
+
+916 Intel Pentium D 3.20GHz 320 .GHz
+
+
+917 Intel Pentium E5200 5200 E
+
+
+918 Intel Pentium E6600 6600 E
+
+
+919 Intel Core i7 K 875 875 
+
+
+920 Intel Core2 Duo P8400 8400 P
+
+
+921 Intel Core i5 3450S 3450 S
+
+
+922 Intel Core i3 530 530 
+Intel Core i3-530 BX80616I3530 Processor	20655
+
+
+923 AMD Athlon X2 240 240 
+E2500N Amd E1 2500 Dual Core Apu +Radeon Hd 8240 Mini Itx	3950
+
+
+924 Intel Core2 Duo T9550 9550 T
+
+
+925 AMD Athlon 220GE 220 GE
+AMD Athlon 220GE with Radeon Vega Graphics Processor	10577
+
+
+926 Intel Core2 Duo T9400 9400 T
+
+
+927 Intel Celeron G4900 4900 G
+Intel Celeron Processor G4900	7749
+Intel Celeron G4900 3.1 GHz Dual-Core LGA 1151 Processor (Retail)	6410
+
+
+928 Intel Core i9 9960X 9960 X
+Intel Core i9-9960X Skylake X 16-Core 3.1 GHz (4.4 GHz Turbo) LGA 2066 Desktop Processor BX80673I99960X	70650
+
+
+929 Intel Core i5 4250U 4250 U
+
+
+930 Intel Core2 Duo P8700 8700 P
+
+
+931 Intel Pentium G2120 2120 G
+
+
+932 Intel Pentium G5400T 5400 GT
+
+
+933 AMD Athlon 64 3400+ 3400 +
+
+
+934 AMD Athlon XP 2200+ 2200 +
+
+
+935 AMD Opteron 4171 HE  HE
+
+
+936 AMD AthlonX2 DualCore QL 60 60 
+
+
+937 Intel Pentium M processor 1700MHz 1700 MHz
+
+
+938 Intel Celeron 2.80GHz 280 .GHz
+
+
+939 AMD Athlon Neo MV 40 40 
+
+
+940 Intel Atom N435 435 N
+
+
+941 Intel Core M 5Y10a 510 Ya
+
+
+942 Intel Core i3 7101E 7101 E
+
+
+943 AMD Phenom II P940 940 P
+
+
+944 Intel Core i3 2357M 2357 M
+
+
+945 AMD A10 6700T 6700 T
+
+
+946 AMD Turion II Neo N40L 40 NL
+
+
+947 Intel Core2 Duo L7500 7500 L
+
+
+948 Intel Pentium 4410Y 4410 Y
+
+
+949 Intel Xeon E3 1286 1286 
+
+
+950 Intel Core i3 6167U 6167 U
+
+
+951 Intel Pentium 4405Y 4405 Y
+
+
+952 Intel Core i5 3339Y 3339 Y
+
+
+953 Intel Pentium 4 2.60GHz 260 .GHz
+
+
+954 Intel T2600 2600 T
+
+
+955 Intel Core i7 3689Y 3689 Y
+
+
+956 Intel Pentium 4 2.66GHz 266 .GHz
+
+
+957 Intel Core i7 5775R 5775 R
+
+
+958 AMD Turion II Ultra Mobile M600 600 M
+
+
+959 AMD Turion 64 X2 Mobile Technology TL 52 52 
+
+
+960 AMD A8 7200P 7200 P
+
+
+961 Intel Pentium 4 3.80GHz 380 .GHz
+
+
+962 Intel Atom Z3770 3770 Z
+
+
+963 Intel Core2 Duo L9600 9600 L
+
+
+964 Intel Atom D410 410 D
+
+
+965 Intel Atom N550 550 N
+
+
+966 Intel Core2 T5200 5200 T
+
+
+967 Intel Core i5 7600T 7600 T
+Intel Core i5-7600T 2.8 GHz Quad-Core Processor	30180
+
+
+968 Intel Core2 Duo P7570 7570 P
+
+
+969 AMD Athlon Dual Core 4850e 4850 e
+
+
+970 AMD Sempron 2800+ 2800 +
+
+
+971 Intel Core i7 2677M 2677 M
+
+
+972 AMD Athlon 64 3200+ 3200 +
+Genuine AMD Athlon 64 3200+ CPU Computer Processor 2 GHz FSB Speed - 1000 MHz 512 KB Single-Core AM2 ADA3200IAA4CN	20579
+
+
+973 Intel Core2 Duo T5670 5670 T
+
+
+974 Intel Core2 T5500 5500 T
+
+
+975 AMD Athlon 64 X2 Dual Core TK 53 53 
+
+
+976 Intel U4100 4100 U
+
+
+977 AMD Turion X2 Ultra Mobile ZM 82 82 
+
+
+978 Intel Xeon E5345 5345 E
+
+
+979 AMD Turion II Neo N54L 54 NL
+
+
+980 Intel Celeron B815 815 B
+
+
+981 Intel Atom x5 Z8330 8330 Z
+
+
+982 AMD Athlon X2 Dual Core QL 65 65 
+
+
+983 Intel Core i5 4210Y 4210 Y
+
+
+984 Intel Xeon E5504 5504 E
+
+
+985 Intel Xeon E5507 5507 E
+
+
+986 Intel Pentium D 2.80GHz 280 .GHz
+
+
+987 Intel T2300 2300 T
+
+
+988 Intel Core Duo T2350 2350 T
+
+
+989 Intel Xeon W3503 3503 W
+
+
+990 AMD Phenom 9500 9500 
+
+
+991 Intel Celeron 2.53GHz 253 .GHz
+
+
+992 Intel Pentium M processor 1.86GHz 186 .GHz
+
+
+993 Intel Core2 T5600 5600 T
+
+
+994 Intel Celeron B800 800 B
+
+
+995 AMD A8 3530MX 3530 MX
+
+
+996 Intel Core i3 3227U 3227 U
+
+
+997 Intel Pentium Dual E2200 2200 E
+
+
+998 Intel Pentium 3550M 3550 M
+
+
+999 Intel Pentium G645 645 G
+
+
+1000 Intel Celeron 877 877 
+
+
+1001 Intel Core i3 U 330 330 
+
+
+1002 AMD Phenom II X4 830 830 
+
+
+1003 AMD Phenom II N830 830 N
+
+
+1004 Intel Core i5 8600T 8600 T
+
+
+1005 AMD Athlon 64 X2 Dual Core 5000+ 5000 +
+
+
+1006 AMD A10 5750M 5750 M
+
+
+1007 Intel Celeron E1500 1500 E
+
+
+1008 Intel Pentium 4 3.00GHz 300 .GHz
+
+
+1009 AMD C 60 60 
+
+
+1010 Intel Core2 Duo U9400 9400 U
+
+
+1011 AMD A6 9210 9210 
+
+
+1012 Intel Pentium D 3.00GHz 300 .GHz
+
+
+1013 AMD A10 4655M 4655 M
+
+
+1014 AMD V140 140 V
+
+
+1015 Intel Atom D510 510 D
+
+
+1016 AMD A6 3410MX 3410 MX
+
+
+1017 AMD E2 2000 2000 
+
+
+1018 AMD Phenom II N850 850 N
+
+
+1019 AMD Athlon II X2 215 215 
+
+
+1020 Intel Celeron 847 847 
+
+
+1021 Intel Core i7 4550U 4550 U
+
+
+1022 Intel Core m5 6Y57 657 Y
+
+
+1023 AMD A6 7000 7000 
+
+
+1024 Intel Pentium 4 3.20GHz 320 .GHz
+
+
+1025 AMD A10 9630P 9630 P
+
+
+1026 Intel T2400 2400 T
+
+
+1027 Intel Pentium 987 987 
+
+
+1028 AMD Phenom II N950 950 N
+
+
+1029 AMD Phenom II X4 920 920 
+
+
+1030 AMD E2 7110 7110 
+
+
+1031 Intel Atom D525 525 D
+
+
+1032 Intel Atom x5 Z8500 8500 Z
+
+
+1033 Intel Celeron N2815 2815 N
+
+
+1034 Intel Atom N280 280 N
+
+
+1035 Intel Core i5 2557M 2557 M
+
+
+1036 Intel Xeon E5 2609 2609 
+Intel Processor Xeon LGA2011-3 1.90G 15M Proc E5-2609V3 BX80644E52609V3	35699
+
+
+1037 AMD Athlon 64 X2 Dual Core 3600+ 3600 +
+
+
+1038 Intel Celeron B830 830 B
+
+
+1039 AMD Phenom 8450 8450 
+
+
+1040 Intel Pentium 4 2.40GHz 240 .GHz
+
+
+1041 Intel Atom Z3740D 3740 ZD
+
+
+1042 AMD A10 9600P 9600 P
+
+
+1043 Intel Core2 6600 6600 
+Intel Core 2 Quad Q6600 2.4 GHz Quad-Core CPU Processor SLACR LGA 775 8M Cache	11235
+
+
+1044 Intel Atom N450 450 N
+
+
+1045 AMD Athlon II M320 320 M
+
+
+1046 Intel Core i3 2105 2105 
+
+
+1047 Intel Celeron N3050 3050 N
+
+
+1048 Intel Core i5 2467M 2467 M
+
+
+1049 Intel Core i7 2637M 2637 M
+
+
+1050 Intel Core i3 2367M 2367 M
+
+
+1051 AMD A8 3510MX 3510 MX
+
+
+1052 AMD Athlon II P360 360 P
+
+
+1053 Intel Core i5 4202Y 4202 Y
+
+
+1054 Intel Core2 Duo L9400 9400 L
+
+
+1055 Intel Core i5 9400H 9400 H
+
+
+1056 AMD Athlon II P320 320 P
+
+
+1057 AMD Athlon LE 1640 1640 
+
+
+1058 Intel Atom x7 Z8700 8700 Z
+
+
+1059 AMD Athlon II X2 255 255 
+
+
+1060 Intel Core M 5Y70 570 Y
+
+
+1061 AMD Athlon Dual Core 4450e 4450 e
+
+
+1062 Intel Core i3 U 380 380 
+
+
+1063 AMD Turion 64 X2 Mobile Technology TL 56 56 
+
+
+1064 AMD Turion 64 X2 Mobile Technology TL 60 60 
+
+
+1065 Intel Core i5 3317U 3317 U
+
+
+1066 Intel Core2 Extreme Q6850 6850 Q
+
+
+1067 Intel T2500 2500 T
+
+
+1068 Intel Pentium G840 840 G
+
+
+1069 Intel Core i7 2920XM 2920 XM
+
+
+1070 Intel Core2 6700 6700 
+
+
+1071 AMD A4 3305M 3305 M
+
+
+1072 AMD Athlon X2 Dual Core BE 2300 2300 
+
+
+1073 AMD A6 4455M 4455 M
+
+
+1074 AMD Phenom II N660 660 N
+
+
+1075 Intel Core2 Duo P9500 9500 P
+
+
+1076 Intel Pentium 4 3.40GHz 340 .GHz
+
+
+1077 Intel Celeron 2957U 2957 U
+
+
+1078 Intel Pentium Dual T2390 2390 T
+
+
+1079 Intel Celeron 887 887 
+
+
+1080 Intel Atom Z3740 3740 Z
+
+
+1081 Intel 575 575 
+
+
+1082 Intel Atom x7 Z8750 8750 Z
+
+
+1083 AMD Turion II Mobile M500 500 M
+
+
+1084 AMD Phenom 9150e 9150 e
+
+
+1085 Intel Core i3 3220T 3220 T
+
+
+1086 Intel Core i5 4200U 4200 U
+
+
+1087 AMD A8 4555M 4555 M
+
+
+1088 Intel Atom N2800 2800 N
+
+
+1089 AMD Phenom II P960 960 P
+
+
+1090 Intel Celeron N2840 2840 N
+
+
+1091 Intel Core M 5Y10 510 Y
+
+
+1092 Intel Core2 Duo L9300 9300 L
+
+
+1093 Intel Pentium T4300 4300 T
+
+
+1094 AMD E2 9010 9010 
+
+
+1095 AMD A4 1250 1250 
+
+
+1096 Intel Pentium Dual T2370 2370 T
+
+
+1097 Intel Core2 Duo T5850 5850 T
+
+
+1098 Intel Core i7 5650U 5650 U
+
+
+1099 Intel Core i7 Q 840 840 
+
+
+1100 Intel Core i5 8305G 8305 G
+
+
+1101 Intel Core2 Duo P9400 9400 P
+
+
+1102 AMD Athlon 64 X2 Dual Core TK 55 55 
+
+
+1103 Intel Atom Z3775 3775 Z
+
+
+1104 Intel Core2 Duo U9600 9600 U
+
+
+1105 Intel Celeron Dual Core T3100 3100 T
+
+
+1106 Intel Xeon E3 1265L 1265 L
+
+
+1107 AMD A9 9410 9410 
+
+
+1108 Intel Pentium N3510 3510 N
+
+
+1109 AMD Athlon 64 X2 Dual Core 4600+ 4600 +
+
+
+1110 Intel Pentium E6800 6800 E
+
+
+1111 AMD Sempron 3600+ 3600 +
+
+
+1112 AMD Athlon Neo X2 Dual Core L335 335 L
+
+
+1113 Intel Core i7 4722HQ 4722 HQ
+
+
+1114 AMD A4 5000 5000 
+
+
+1115 AMD FX 770K (2014 D.Ka)  D.Ka)
+
+
+1116 Intel Atom 230 230 
+
+
+1117 AMD Sempron 3400+ 3400 +
+
+
+1118 Intel Core i9 10900X 10900 X
+
+
+1119 Intel Pentium Dual T2310 2310 T
+
+
+1120 AMD A4 6320 6320 
+
+
+1121 Intel Pentium 4417U 4417 U
+
+
+1122 Intel Core i3 4012Y 4012 Y
+
+
+1123 Intel Celeron Dual Core T3300 3300 T
+
+
+1124 Intel Core i5 2450P 2450 P
+
+
+1125 Intel Celeron 900 900 
+
+
+1126 Intel Core i5 6600T 6600 T
+
+
+1127 Intel Celeron N3010 3010 N
+
+
+1128 Intel Pentium 2117U 2117 U
+
+
+1129 Intel Atom Z2760 2760 Z
+
+
+1130 Intel U2300 2300 U
+
+
+1131 Intel Core i5 3470T 3470 T
+
+
+1132 Intel Core2 Duo T5900 5900 T
+
+
+1133 Intel Core i5 U 470 470 
+
+
+1134 Intel Celeron N2930 2930 N
+
+
+1135 Intel Xeon E3 1276 1276 
+
+
+1136 Intel Core i5 4570T 4570 T
+
+
+1137 Intel Pentium G3430 3430 G
+
+
+1138 Intel Pentium G5500T 5500 GT
+
+
+1139 Intel T2250 2250 T
+
+
+1140 Intel Core2 Duo T7500 7500 T
+
+
+1141 Intel Core2 4400 4400 
+INTEL® PENTIUM® G4400 Desktop Processor 2 Core Up To 3.30 GHz LGA1151 100 Series 54W 	4399
+
+
+1142 Intel Core2 Duo T5450 5450 T
+
+
+1143 Intel Core2 6320 6320 
+
+
+1144 Intel Core i7 X 920 920 
+
+
+1145 AMD Sempron 3000+ 3000 +
+
+
+1146 Intel Core2 Duo T5750 5750 T
+
+
+1147 Intel 2140 2140 
+
+
+1148 AMD A8 3520M 3520 M
+
+
+1149 Intel Celeron N2820 2820 N
+
+
+1150 Intel Xeon E5506 5506 E
+
+
+1151 Intel Core X 920 920 
+
+
+1152 Intel Pentium Dual T2330 2330 T
+
+
+1153 Intel Core2 T5300 5300 T
+
+
+1154 Intel Core2 Duo T7100 7100 T
+
+
+1155 Intel Core2 Duo E4400 4400 E
+
+
+1156 Intel Celeron E1400 1400 E
+
+
+1157 Intel Core i7 X 940 940 
+
+
+1158 Intel Core2 6420 6420 
+
+
+1159 Intel Core2 Duo T5550 5550 T
+
+
+1160 Intel Core2 Duo P7450 7450 P
+
+
+1161 Intel Core2 4300 4300 
+
+
+1162 Intel Pentium T4200 4200 T
+
+
+1163 Intel Core2 T7200 7200 T
+
+
+1164 Intel Pentium II processor  processor
+
+
+1165 Intel Core i3 2310M 2310 M
+
+
+1166 Intel Pentium G3470 3470 G
+
+
+1167 Intel Celeron E3200 3200 E
+
+
+1168 Intel Pentium G6950 6950 G
+
+
+1169 Intel Core2 Duo T5250 5250 T
+
+
+1170 Intel Pentium Dual T3400 3400 T
+
+
+1171 Intel Pentium 4 2.80GHz 280 .GHz
+
+
+1172 Intel Celeron G3950 3950 G
+
+
+1173 AMD Athlon 240GE 240 GE
+AMD Athlon 240GE with Radeon Vega Graphics Processor	10577
+
+
+1174 Intel Celeron M processor 1.50GHz 150 .GHz
+
+
+1175 Intel Atom D2700 2700 D
+
+
+1176 Intel Atom N455 455 N
+
+
+1177 AMD E 350D 350 D
+
+
+1178 Intel Pentium D 2.66GHz 266 .GHz
+
+
+1179 Intel Pentium 4 2.93GHz 293 .GHz
+
+
+1180 Intel U7300 7300 U
+
+
+1181 Intel Core i5 5250U 5250 U
+
+
+1182 Intel Core i5 6260U 6260 U
+
+
+1183 Intel Celeron 723 723 
+
+
+1184 Intel Celeron M 430 430 
+
+
+1185 Intel Core2 6400 6400 
+Intel Core 2 Duo E6400 CPU Processor- SLA5D	8429
+
+
+1186 AMD A4 1200 1200 
+
+
+1187 Intel Pentium M processor 1.60GHz 160 .GHz
+
+
+1188 Intel Atom Z520 520 Z
+
+
+1189 Intel Xeon E5 2603 2603 
+Intel Xeon E5-2603 v4 1.7 GHz Six-Core LGA 2011 Processor	29590
+
+
+1190 Intel Celeron N3000 3000 N
+
+
+1191 AMD E1 7010 7010 
+
+
+1192 Intel Core2 T7600 7600 T
+
+
+1193 Intel Core i7 5950HQ 5950 HQ
+
+
+1194 Intel Core i3 6157U 6157 U
+
+
+1195 Intel Core i7 M 620 620 
+
+
+1196 Intel Core2 Duo E8200 8200 E
+
+
+1197 AMD FX 4130 4130 
+
+
+1198 Intel Celeron G1830 1830 G
+
+
+1199 Intel Pentium Dual E2140 2140 E
+
+
+1200 Intel Core i9 9940X 9940 X
+
+
+1201 AMD E1 2100 2100 
+
+
+1202 AMD E1 2500 2500 
+
+
+1203 AMD E 300 300 
+
+
+1204 Intel Core i3 7020U 7020 U
+
+
+1205 AMD E1 1200 1200 
+
+
+1206 Intel Core i3 4340 4340 
+
+

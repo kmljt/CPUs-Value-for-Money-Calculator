@@ -1,0 +1,72 @@
+AMD Ryzen 5 3600 3rd Gen Desktop Processor 100-100000031BOX	16349
+AMD Ryzen 7 3700X 3rd Gen Desktop Processor 100-100000071BOX	28400
+AMD Ryzen 9 3900X 3rd Gen Desktop Processor 100-100000023BOX	44990
+Intel Core i5-9400F Coffee Lake 6-Core 2.9 GHz (4.10 GHz Turbo) Processor BX80684I59400F	11450
+AMD Ryzen 5 3500 3rd Gen Desktop Processor	10650
+AMD Ryzen 3 2200G Processor with Radeon Vega 8 Graphics	6050
+AMD Ryzen 5 3400G with Radeon RX Vega 11 Graphics 3rd Gen Desktop Processor YD3400C5FHBOX	12499
+Intel Core i3 9100F 9th Generation Desktop Processor	6350
+Intel Core i7-9700K Coffee Lake 8-Core 3.6 GHz Desktop Processor	30699
+AMD Ryzen 7 3800X 3rd Gen Desktop Processor 100-100000025BOX	30199
+AMD Ryzen 3 3200G with Radeon Vega 8 Graphics 3rd Gen Desktop Processor YD3200C5FHBOX	8200
+AMD Ryzen 5 3600X 3rd Gen Desktop Processor 100-100000022BOX	20849
+AMD RYZEN 5 2600 6-Core 3.4 GHz (3.9 GHz Max Boost) Socket AM4 Processor	12499
+AMD RYZEN 5 2600X 6-Core 3.6 GHz (4.2 GHz Max Boost) Socket AM4 Processor	14900
+AMD Ryzen 5 2400G Processor with Radeon RX Vega 11 Graphics	9849
+AMD RYZEN 3 1200 3.1 GHz Socket AM4 Processor	4949
+Intel Core i9-9900K Coffee Lake 8-Core 3.6 GHz Processor	51499
+AMD RYZEN 7 2700X 8-Core 3.7 GHz (4.3 GHz Max Boost) Socket AM4 Processor	19950
+Intel Pentium Gold G5400 Coffee Lake Dual-Core 3.7 GHz Processor	4200
+Intel Core I7-8700K 3.70 GHz Coffee Lake-S 8TH GEN Processor	29800
+Intel G4560 Kaby Lake Dual Core 3.5 GHz Desktop Processor	4750
+AMD RYZEN 5 1600 3.2 GHz Socket AM4 Processor with Wraith Spire 65W cooler	8949
+AMD RYZEN 7 1700 3.0 GHz (3.7 GHz Turbo) Socket AM4 65W Desktop Processor	15749
+Intel Core i5-9600K Coffee Lake 6-Core 3.7 GHz Processor	18200
+Intel Core I5-8400 2.80 GHz Coffee Lake-S 8TH GEN Processor	16199
+Intel Core I7-8700 3.20 GHz Coffee Lake 8TH GEN Processor	30699
+AMD Ryzen 9 3950X 3rd Gen Desktop Processor ADV100000051WOF	68800
+Intel Core i5-9400 Coffee Lake 6-Core 2.9 GHz (4.10 GHz Turbo) Processor BX80684I59400	16799
+AMD ATHLON 200GE APU Series Desktop Processor YD200GC6FBBOX	4050
+AMD A6-9500 Bristol Ridge Dual-Core 3.5 GHz Desktop Processor	3399
+Intel Core I3-8100 3.60 GHz Coffee Lake-S 8TH GEN Processor	10600
+AMD RYZEN 3 1300X 3.5 GHz Socket AM4 Desktop Processor with Wraith Stealth Cooler	6675
+Intel Core i9-9900KF Coffee Lake 8-Core 3.6 GHz 9th Gen Desktop Processor Without Graphics BX80684I99900KF	43000
+AMD 3rd Gen Ryzen Threadripper 3970X Desktop Processor	178987
+Intel Core i7-9700KF Coffee Lake 8-Core 3.6 GHz 9th Gen Desktop Processor Without Graphics BX80684I79700KF	29400
+AMD Ryzen 7 2700X AMD50 Gold Edition 3.7 GHz Processor YD270XBGAFA50	24499
+Intel Core i9-9980XE Extreme Edition 3.0 GHz Eighteen-Core LGA 2066 Processor	99500
+Intel Core i3-9100 Coffee Lake 4-Core 3.6 GHz Processor BX80684I39100	10400
+AMD 3rd Gen Ryzen Threadripper 3960X Desktop Processor	123910
+Intel Core i9-9900X Skylake X 10-Core 3.5 GHz (4.4 GHz Turbo) LGA 2066 Desktop Processor BX80673I99900X	46500
+AMD Ryzen 2nd Gen Threadripper 2920X Desktop Processor	50999
+AMD Ryzen 2nd Gen Threadripper 2970WX Desktop Processor	96999
+AMD Ryzen 2nd Gen Threadripper 2950X Processor	75999
+Intel Core i7-8086K Coffee Lake Processor Limited Edition	41500
+Intel Core I5-8600K 3.50 GHz Coffee Lake-S 8TH GEN Processor	19900
+AMD Ryzen Threadripper TR 1950X 4.0 GHz Turbo Desktop Processor	61348
+Intel Pentium G4400 Skylake Dual Core 3.3 GHz Desktop Processor	4750
+AMD RYZEN 5 1500X 3.6 GHz Socket AM4 Desktop Processor with Wraith Spire 95W cooler	9200
+AMD RYZEN 5 1400 3.2 GHz Socket AM4 Processor with Wraith Stealth 65W cooler	8800
+Intel Core i5-7400 7400 Kaby Lake Processor 6M Cache up to 3.50 GHz	16950
+Intel Core i9-9820X Skylake X 10-Core 3.3 GHz (4.1 GHz Turbo) LGA 2066 165W Desktop Processor BX80673I99820X	44100
+Intel Core i9-9920X Skylake X 12-Core 3.5 GHz (4.4 GHz Turbo) LGA 2066 Desktop Processor BX80673I99920X	54700
+Intel Core i9-9960X Skylake X 16-Core 3.1 GHz (4.4 GHz Turbo) LGA 2066 Desktop Processor BX80673I99960X	70650
+Intel Core i7-9700 Coffee Lake 8-Core 3.0 GHz (4.7 GHz Turbo) Processor BX80684I79700	29300
+Intel Core i9-7980XE X-Series Extreme Edition 2.6 GHz 18-Core Processor BX80673I97980X	162699
+AMD Ryzen 2nd Gen Threadripper 2990WX Processor	153200
+AMD RYZEN 7 2700 8-Core 3.2 GHz (4.1 GHz Max Boost) Socket AM4 Processor	18400
+AMD FX-8300 Vishera 8-Core 3.3 GHz Desktop Processor	8400
+Intel Core i5-7640X Kaby Lake-X Quad-Core 4.0 GHz Desktop Processor	18350
+Intel Core i7-7800X Skylake-X 6-Core 3.5 GHz Desktop Processor	33200
+AMD RYZEN 7 1800X 3.6 GHz (4.0 GHz Turbo) Socket AM4 95W Desktop Processor	20999
+Intel Core i7-7700K 7700k Kaby Lake Processor 8M Cache up to 4.50 GHz	29600
+Intel Core i7-7700 7700 Kaby Lake Processor 8M Cache up to 4.20 GHz	25300
+Intel Core i5-7500 7500 Kaby Lake Processor 6M Cache up to 3.80 GHz	18200
+Intel Core i3-7100 7100 Kaby Lake Desktop Processor 3M Cache 3.90 GHz	9300
+Intel Celeron G3900 Skylake Dual-Core 2.8 GHz Processor BX80662G3900	2600
+Intel Core i5-8600 Coffee Lake 6-Core 3.1 GHz Desktop Processor	20650
+AMD FX-8350 Black Edition Vishera 8-Core 4.0 GHz Desktop Processor	12000
+AMD Ryzen Threadripper 1900X Desktop Processor	26000
+AMD Ryzen Threadripper TR 1920X 4.0 GHz Turbo Desktop Processor	63189
+AMD RYZEN 5 1600X 3.6 GHz (4.0 GHz Turbo) Socket AM4 95W Desktop Processor	13800
+AMD RYZEN 7 1700X 3.4 GHz (3.8 GHz Turbo) Socket AM4 95W Desktop Processor	26699
